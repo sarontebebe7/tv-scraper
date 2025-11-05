@@ -1,0 +1,54 @@
+# Git and version control
+.git
+.gitignore
+*.md
+LICENSE
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Logs
+logs/
+*.log
+
+# SLURM files (not needed in Docker)
+*.slurm
+
+# Database files (will be mounted as volumes)
+*.db
+
+# Temporary files
+tv_programs_*.txt
+
+# Docker
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# Documentation
+README.md
+docs/
+
+# Test files
+test_*
+*_test.py

@@ -1,0 +1,13 @@
+[build]
+builder = "dockerfile"
+dockerfilePath = "Dockerfile.railway"
+
+[deploy]
+healthcheckPath = "/status"
+healthcheckTimeout = 300
+restartPolicyType = "always"
+startCommand = "python flask_now_playing.py"
+
+[env]
+PORT = "5001"
+FLASK_ENV = "production"

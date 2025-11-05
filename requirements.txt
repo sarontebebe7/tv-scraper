@@ -1,0 +1,16 @@
+# Web requests & HTML parsing
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Data analysis & file formats
+pandas==2.2.2
+pyarrow==17.0.0      # for Parquet output
+# fastparquet==2024.5.0   # optional alternative to pyarrow
+
+# Optional: if you need to scrape JavaScript-rendered pages
+playwright==1.48.0
+
+Flask==3.0.3
+
+# Scheduling
+schedule==1.2.0

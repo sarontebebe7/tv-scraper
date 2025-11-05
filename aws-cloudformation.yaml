@@ -1,0 +1,59 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'TV Scraper Infrastructure'
+
+Resources:
+  # S3 Bucket for data storage
+  TVScraperBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: tv-scraper-data-bucket
+      
+  # RDS Database (instead of SQLite)
+  TVScraperDB:
+    Type: AWS::RDS::DBInstance
+    Properties:
+      DBInstanceIdentifier: tv-scraper-db
+      DBInstanceClass: db.t3.micro
+      Engine: postgres
+      MasterUsername: admin
+      MasterUserPassword: !Ref DBPassword
+      AllocatedStorage: 20
+      
+  # ECS Cluster for API server
+  TVScraperCluster:
+    Type: AWS::ECS::Cluster
+    Properties:
+      ClusterName: tv-scraper-cluster
+      
+  # Lambda function for scraping
+  ScraperLambda:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: tv-scraper-function
+      Runtime: python3.9
+      Handler: aws-lambda-scraper.lambda_handler
+      Code:
+        ZipFile: |
+          # Your scraper code here
+      Timeout: 300
+      
+  # EventBridge rule for scheduling
+  ScraperSchedule:
+    Type: AWS::Events::Rule
+    Properties:
+      ScheduleExpression: 'rate(6 hours)'
+      Targets:
+        - Arn: !GetAtt ScraperLambda.Arn
+          Id: ScraperTarget
+          
+  # API Gateway for external access
+  TVScraperAPI:
+    Type: AWS::ApiGateway::RestApi
+    Properties:
+      Name: tv-scraper-api
+
+Parameters:
+  DBPassword:
+    Type: String
+    NoEcho: true
+    Description: Database password

@@ -1,0 +1,355 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'TV Scraper - Serverless Deployment (Lambda + API Gateway + DynamoDB)'
+
+Parameters:
+  ProjectName:
+    Type: String
+    Default: tv-scraper
+    Description: Name of the project
+  
+  Environment:
+    Type: String
+    Default: prod
+    AllowedValues: [dev, staging, prod]
+    Description: Environment name
+
+Resources:
+  # DynamoDB Tables
+  TVProgramsTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: !Sub '${ProjectName}-${Environment}-programs'
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: channel
+          AttributeType: S
+        - AttributeName: program_id
+          AttributeType: S
+      KeySchema:
+        - AttributeName: channel
+          KeyType: HASH
+        - AttributeName: program_id
+          KeyType: RANGE
+      StreamSpecification:
+        StreamViewType: NEW_AND_OLD_IMAGES
+      PointInTimeRecoverySpecification:
+        PointInTimeRecoveryEnabled: true
+
+  ViewerCountsTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: !Sub '${ProjectName}-${Environment}-viewers'
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: channel
+          AttributeType: S
+      KeySchema:
+        - AttributeName: channel
+          KeyType: HASH
+      TimeToLiveSpecification:
+        AttributeName: ttl
+        Enabled: true
+
+  # Lambda Execution Role
+  LambdaExecutionRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: !Sub '${ProjectName}-${Environment}-lambda-role'
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+      Policies:
+        - PolicyName: DynamoDBAccess
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - dynamodb:GetItem
+                  - dynamodb:PutItem
+                  - dynamodb:UpdateItem
+                  - dynamodb:DeleteItem
+                  - dynamodb:Query
+                  - dynamodb:Scan
+                Resource:
+                  - !GetAtt TVProgramsTable.Arn
+                  - !GetAtt ViewerCountsTable.Arn
+
+  # API Lambda Function
+  APIFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: !Sub '${ProjectName}-${Environment}-api'
+      Runtime: python3.9
+      Handler: lambda_api.handler
+      Role: !GetAtt LambdaExecutionRole.Arn
+      Timeout: 30
+      MemorySize: 512
+      Environment:
+        Variables:
+          PROGRAMS_TABLE: !Ref TVProgramsTable
+          VIEWERS_TABLE: !Ref ViewerCountsTable
+          ENVIRONMENT: !Ref Environment
+      Code:
+        ZipFile: |
+          import json
+          import boto3
+          import os
+          from datetime import datetime
+          
+          dynamodb = boto3.resource('dynamodb')
+          programs_table = dynamodb.Table(os.environ['PROGRAMS_TABLE'])
+          viewers_table = dynamodb.Table(os.environ['VIEWERS_TABLE'])
+          
+          def handler(event, context):
+              path = event.get('path', '/')
+              method = event.get('httpMethod', 'GET')
+              
+              if path == '/now-playing' and method == 'GET':
+                  return get_now_playing()
+              elif path == '/viewers' and method == 'GET':
+                  return get_viewers()
+              elif path == '/status' and method == 'GET':
+                  return get_status()
+              else:
+                  return {
+                      'statusCode': 404,
+                      'headers': {'Content-Type': 'application/json'},
+                      'body': json.dumps({'error': 'Not Found'})
+                  }
+          
+          def get_now_playing():
+              try:
+                  response = programs_table.scan()
+                  programs = response.get('Items', [])
+                  
+                  return {
+                      'statusCode': 200,
+                      'headers': {'Content-Type': 'application/json'},
+                      'body': json.dumps({
+                          'success': True,
+                          'data': programs,
+                          'count': len(programs)
+                      })
+                  }
+              except Exception as e:
+                  return {
+                      'statusCode': 500,
+                      'headers': {'Content-Type': 'application/json'},
+                      'body': json.dumps({'error': str(e)})
+                  }
+          
+          def get_viewers():
+              try:
+                  response = viewers_table.scan()
+                  viewers = response.get('Items', [])
+                  
+                  return {
+                      'statusCode': 200,
+                      'headers': {'Content-Type': 'application/json'},
+                      'body': json.dumps({
+                          'success': True,
+                          'data': viewers,
+                          'timestamp': datetime.utcnow().isoformat()
+                      })
+                  }
+              except Exception as e:
+                  return {
+                      'statusCode': 500,
+                      'headers': {'Content-Type': 'application/json'},
+                      'body': json.dumps({'error': str(e)})
+                  }
+          
+          def get_status():
+              return {
+                  'statusCode': 200,
+                  'headers': {'Content-Type': 'application/json'},
+                  'body': json.dumps({
+                      'status': 'healthy',
+                      'service': 'tv-scraper-api',
+                      'environment': os.environ.get('ENVIRONMENT', 'unknown'),
+                      'timestamp': datetime.utcnow().isoformat()
+                  })
+              }
+
+  # Scraper Lambda Function
+  ScraperFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: !Sub '${ProjectName}-${Environment}-scraper'
+      Runtime: python3.9
+      Handler: lambda_scraper.handler
+      Role: !GetAtt LambdaExecutionRole.Arn
+      Timeout: 300
+      MemorySize: 1024
+      Environment:
+        Variables:
+          PROGRAMS_TABLE: !Ref TVProgramsTable
+          VIEWERS_TABLE: !Ref ViewerCountsTable
+      Code:
+        ZipFile: |
+          import json
+          import boto3
+          import os
+          import random
+          from datetime import datetime, timedelta
+          
+          dynamodb = boto3.resource('dynamodb')
+          programs_table = dynamodb.Table(os.environ['PROGRAMS_TABLE'])
+          viewers_table = dynamodb.Table(os.environ['VIEWERS_TABLE'])
+          
+          def handler(event, context):
+              try:
+                  # Simulate scraping TV programs
+                  channels = ['BBC Earth', 'Discovery Channel', 'National Geographic']
+                  programs = []
+                  
+                  for channel in channels:
+                      # Generate sample program data
+                      program = {
+                          'channel': channel,
+                          'program_id': f"{channel.lower().replace(' ', '_')}_{datetime.now().strftime('%Y%m%d%H%M')}",
+                          'title': f"Nature Documentary {random.randint(1, 100)}",
+                          'description': 'An amazing journey through nature',
+                          'start_time': datetime.now().isoformat(),
+                          'end_time': (datetime.now() + timedelta(hours=1)).isoformat(),
+                          'scraped_at': datetime.utcnow().isoformat()
+                      }
+                      
+                      # Save to DynamoDB
+                      programs_table.put_item(Item=program)
+                      programs.append(program)
+                      
+                      # Update viewer counts
+                      viewer_count = random.randint(1000, 5000)
+                      viewers_table.put_item(Item={
+                          'channel': channel,
+                          'count': viewer_count,
+                          'updated_at': datetime.utcnow().isoformat(),
+                          'ttl': int((datetime.now() + timedelta(hours=24)).timestamp())
+                      })
+                  
+                  return {
+                      'statusCode': 200,
+                      'body': json.dumps({
+                          'success': True,
+                          'scraped_programs': len(programs),
+                          'timestamp': datetime.utcnow().isoformat()
+                      })
+                  }
+              except Exception as e:
+                  print(f"Error: {str(e)}")
+                  return {
+                      'statusCode': 500,
+                      'body': json.dumps({'error': str(e)})
+                  }
+
+  # API Gateway
+  APIGateway:
+    Type: AWS::ApiGateway::RestApi
+    Properties:
+      Name: !Sub '${ProjectName}-${Environment}-api'
+      Description: TV Scraper API
+      EndpointConfiguration:
+        Types:
+          - REGIONAL
+
+  # API Gateway Resources and Methods
+  NowPlayingResource:
+    Type: AWS::ApiGateway::Resource
+    Properties:
+      RestApiId: !Ref APIGateway
+      ParentId: !GetAtt APIGateway.RootResourceId
+      PathPart: now-playing
+
+  ViewersResource:
+    Type: AWS::ApiGateway::Resource
+    Properties:
+      RestApiId: !Ref APIGateway
+      ParentId: !GetAtt APIGateway.RootResourceId
+      PathPart: viewers
+
+  StatusResource:
+    Type: AWS::ApiGateway::Resource
+    Properties:
+      RestApiId: !Ref APIGateway
+      ParentId: !GetAtt APIGateway.RootResourceId
+      PathPart: status
+
+  # Lambda Permission for API Gateway
+  APIGatewayLambdaPermission:
+    Type: AWS::Lambda::Permission
+    Properties:
+      Action: lambda:InvokeFunction
+      FunctionName: !Ref APIFunction
+      Principal: apigateway.amazonaws.com
+      SourceArn: !Sub 'arn:aws:execute-api:${AWS::Region}:${AWS::AccountId}:${APIGateway}/*/*'
+
+  # EventBridge Rule for Scraping
+  ScrapingSchedule:
+    Type: AWS::Events::Rule
+    Properties:
+      Name: !Sub '${ProjectName}-${Environment}-scraping-schedule'
+      Description: 'Schedule TV program scraping every hour'
+      ScheduleExpression: 'rate(1 hour)'
+      State: ENABLED
+      Targets:
+        - Arn: !GetAtt ScraperFunction.Arn
+          Id: ScraperTarget
+
+  # Permission for EventBridge to invoke Lambda
+  EventBridgeLambdaPermission:
+    Type: AWS::Lambda::Permission
+    Properties:
+      Action: lambda:InvokeFunction
+      FunctionName: !Ref ScraperFunction
+      Principal: events.amazonaws.com
+      SourceArn: !GetAtt ScrapingSchedule.Arn
+
+  # API Gateway Deployment
+  APIDeployment:
+    Type: AWS::ApiGateway::Deployment
+    DependsOn:
+      - NowPlayingResource
+      - ViewersResource
+      - StatusResource
+    Properties:
+      RestApiId: !Ref APIGateway
+      StageName: !Ref Environment
+
+Outputs:
+  APIEndpoint:
+    Description: 'API Gateway endpoint URL'
+    Value: !Sub 'https://${APIGateway}.execute-api.${AWS::Region}.amazonaws.com/${Environment}'
+    Export:
+      Name: !Sub '${ProjectName}-${Environment}-api-endpoint'
+
+  TVProgramsTableName:
+    Description: 'DynamoDB table name for TV programs'
+    Value: !Ref TVProgramsTable
+    Export:
+      Name: !Sub '${ProjectName}-${Environment}-programs-table'
+
+  ViewerCountsTableName:
+    Description: 'DynamoDB table name for viewer counts'
+    Value: !Ref ViewerCountsTable
+    Export:
+      Name: !Sub '${ProjectName}-${Environment}-viewers-table'
+
+  APIFunctionName:
+    Description: 'Lambda function name for API'
+    Value: !Ref APIFunction
+    Export:
+      Name: !Sub '${ProjectName}-${Environment}-api-function'
+
+  ScraperFunctionName:
+    Description: 'Lambda function name for scraper'
+    Value: !Ref ScraperFunction
+    Export:
+      Name: !Sub '${ProjectName}-${Environment}-scraper-function'
