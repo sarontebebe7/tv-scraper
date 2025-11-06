@@ -1,1154 +1,6 @@
-Title: Lovci odpadu 3
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 05:00
-End Time: 06:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /881397-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters: Leominster
-Year: 2011
-Description: Dokumentární seriál VB (2011). Drew je v Leominsteru, kde si prohlíží neuvěřitelnou soukromou zahradu, a navštíví jednu z posledních sléváren mosazi, kde se mu nabízejí jedinečné nádoby
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 2
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 06:00
-End Time: 07:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /205286-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: 1995 Volvo 850 T-5R Wagon
-Year: 
-Description: Ford F100 - Seattle. Dokument. Pickupy patří k americkým ikonám. Mike se proto nemůže dočkat, aby pronikl na prosperující trh klasických dodávek. Podaří se mu objevit nedokončenou formuli F1 z padesátých let
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 5
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 07:00
-End Time: 08:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146428-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Porsche 914
-Year: 
-Description: Alfa Romeo 164L z roku 1991. Dokument. Mike vystopuje vzácné Alfa Romeo 164L z roku 1991. Antovi se líbí, ale čeká ho spousta práce, protože bezchybná karoserie skrývá netěsnící motor
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Jak se to dělá 10
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 08:00
-End Time: 08:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /164652-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Combination Squares, Farmed Shrimp, Ball Valves, String Trimmers
-Year: 1999
-Description: Odpružení na horská kola, chirurgické stehy, sušičky na obilí a pánve. Dokumentární seriál Kan. (1999). Podívejte se, jak se vyrábí odpružení na horská kola, chirurgické stehy, sušičky na obilí a pánve
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Jak to dělají? 1
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 08:30
-End Time: 09:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /205415-sk/dokument/jak-to-delaji-2006/
-Original Name: How Do They Do It?
-Year: 2006
-Description: Dokumentární seriál Kan./VB (2006). Blíže se seznámíte s inženýry a vizionářskými průmyslovými návrháři, kteří zodpovídají za výrobu a provoz celé škály obyčejných předmětů
-Score: 61%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu 9
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 09:00
-End Time: 10:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /187521-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters: Curious Science
-Year: 2011
-Description: Dokumentární seriál VB (2011). Drew je v Londýně, kde bude smlouvat o ceně děsivé sbírky lékařských starožitností. V Nottinghamshire navštíví sklad plný starých amerických kousků a velkolepý skotský dům
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Šrot 16
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 10:00
-End Time: 11:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13280101-sk/dokument/srot/
-Original Name: Scrappers
-Year: 
-Description: Dokument. Polští podnikatelé vydělávají hromady peněz šrotováním kovu. Jedná se o těžkou práci jako například bourání zdí, rozebrání bomby či přepravu letadla, aby ho mohli rozdrtit
-Score: 45%
-Genre: dokumentární
-----------------------------------------
-Title: Opravy farem 3
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 11:00
-End Time: 12:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13267177-sk/dokument/opravy-farem/
-Original Name: Farmhouse Fixer: Third Generation Renovation
-Year: 
-Description: Renovace třetí generace. Dokument. Historický dům z roku 1873 se promění v moderní domov pro mladou rodinu. Jon Knight a Kristina Crestin poskytnou této pětičlenné rodině domov s veselými barvami, a dokonce i úlem
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 3
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 12:00
-End Time: 13:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146479-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: 1991 Toyota MR2 Turbo
-Year: 
-Description: Range Rover. Dokument. Bláznivý motorista Mike se vydává napříč Amerikou, kde hledá ikonické vozy, které by Edd mohl přeměnit ze zrezlých vraků na vysněné stroje. Vydělají na těchto klasických autech?
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Podmořští lovci 1
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 13:00
-End Time: 14:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /dokument/podmorsti-lovci/
-Original Name: Abalone Wars
-Year: 
-Description: Nové začátky. Dokument. Sledujte nebezpečnou práci abalonských rybářů, kteří hledají cenné mořské lastury. Živobytí Dominika a jeho posádky je ohroženo, když se jejich lodi porouchá motor
-Score: 64%
-Genre: dokumentární
-----------------------------------------
-Title: Podmořští lovci 2
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 14:00
-End Time: 15:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13267169-sk/dokument/podmorsti-lovci/
-Original Name: Abalone Wars
-Year: 
-Description: Dokument. V Port Lincolnu těží lovci plžů ušní z dočasné přízně počasí, aby získali svůj podíl na průmyslu se zisky až 35 miliard dolarů. Nedonutí je ale šibeniční termín hloupě riskovat?
-Score: 64%
-Genre: dokumentární
-----------------------------------------
-Title: Podmořští lovci 3
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 15:00
-End Time: 16:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13363293-sk/dokument/podmorsti-lovci/
-Original Name: Abalone Wars
-Year: 
-Description: Dokument. Na jihu Austrálie donutily divoké bouře lovce plžů ušní strávit týdny v přístavu. Jaká rizika podstoupí, aby splnili své kvóty, než skončí nepříznivá sezona?
-Score: 64%
-Genre: dokumentární
-----------------------------------------
-Title: Nazí a vystrašení 12
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 16:00
-End Time: 17:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /467993-sk/dokument/nazi-a-vystraseni/
-Original Name: Naked And Afraid: Island Of Tears
-Year: 
-Description: Ostrov slz. Dokument. Na tropickém ostrově v Panamě se Max a Bianca potýkají s agresivním kajmanem, hroznýši královskými a velkými pavouky. Jak to zvládnou?
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Ant Anstead: Rozený mechanik 8
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 17:00
-End Time: 18:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /12647283-sk/dokument/ant-anstead-rozeny-mechanik/
-Original Name: Ant Anstead: Born Mechanic: Land Rover: A Favourite To Finish
-Year: 
-Description: Land Rover: Oblíbenec až do konce. Dokument. Ant najde vzácný Land Rover Series 3 z roku 1978, což je pro něj nález snů. Ale přepážka je prolezlá rzí, což by mohlo Antovi znemožnit výdělek
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Jak to dělají? 6
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 18:00
-End Time: 18:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /222121-sk/dokument/jak-to-delaji/
-Original Name: How Do They Do It?: Vinyl Records, Bumper Cars
-Year: 
-Description: Dokument. Jak se staví výkonné parní válce? Jak se peče chleba v konzervě? Jak se vyrábí mobilní telefon s přesností švýcarských hodinek?
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Jak se to dělá 2
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 18:30
-End Time: 19:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /156474-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: LED stage Lights, Apple Cider
-Year: 1999
-Description: Pódiová světla LED, jablečný mošt, cisterny na chemikálie, kamenné podlahy. Dokumentární seriál Kan. (1999). Zajímá vás, jak se vyrábí věci každodenní potřeby? Zaměříme se na další běžné věci, abychom to zjistili
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Rychle a hlasitě 4
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 19:00
-End Time: 20:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13615909-sk/dokument/rychle-a-hlasite/
-Original Name: Fast N’ Loud: Hot Off The Pantera
-Year: 
-Description: Dokument. Richard Rawlings a Aaron Kaufmann hledají po zapadlých koutech Texasu zpustlé klasické vozy, které zakoupí a restaurují v dílně Gas Monkey Garage v Dallasu
-Score: 63%
-Genre: dokumentární
-----------------------------------------
-Title: Ed Stafford: První z kola ven 1
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 20:00
-End Time: 21:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /1013987-sk/dokument/ed-stafford-prvni-z-kola-ven/
-Original Name: Ed Stafford: First Man Out: Borneo
-Year: 
-Description: Borneo. Dokument. Ed Stafford vyzve bývalého mariňáka v perfektní fyzické kondici a experta na lana Aldo Kanea k závodu v mangovníky prorostlé bornejské bažině plné krokodýlů
-Score: 62%
-Genre: dokumentární
-----------------------------------------
-Title: Nazí a vystrašení: Apokalypsa 1
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 21:00
-End Time: 23:00
-Duration: 120 min
-Channel: Discovery Channel
-Link: /dokument/nazi-a-vystraseni-apokalypsa/
-Original Name: Naked And Afraid Apocalypse: Starting At The End Of Days
-Year: 
-Description: Začít na konci dne. Dokument. Dvanáct ostřílených veteránů prohledává ruiny v pustině. Samotářský slon je donutí postavit si úkryt z vraků aut
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Výrobci načerno páleného alkoholu: Obchod s whisky 3
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 23:00
-End Time: 00:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /15110237-sk/dokument/vyrobci-nacerno-paleneho-alkoholu-obchod-s-whisky/
-Original Name: Moonshiners: Whiskey Business: Underwater Gin Joint
-Year: 
-Description: Lokál s ginem. Dokument. Tim zachrání nejhorší lihovar, jaký kdy viděl. Jeho tým přebuduje stodolu ve stylu nelegálního lokálu z dob prohibice a Tim se pustí do lihovaru
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu: Restaurátoři 5
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 00:00
-End Time: 01:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /227398-sk/dokument/lovci-odpadu-restauratori/
-Original Name: Salvage Hunters: The Restorers
-Year: 
-Description: Dokument VB. Kovodělník Ted renovuje pařížské pouliční osvětlení z 19. století. Preparátor Chris navíc zrestauruje a vystaví psohlava obecného v krásné vitríně
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Diesel Brothers: Pod kapotou 5
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 01:00
-End Time: 01:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15110243-sk/dokument/diesel-brothers-pod-kapotou/
-Original Name: Brake Room: Erik Jones vs Matt D’Andria
-Year: 
-Description: Erik Jones a Matt D’Andria. Dokument. Erik Jones, nováček roku Nascar, a moderátor motoristických pořadů Matt D’Andria předpovídají výsledky nejbláznivějších videí ze světa motorů
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Diesel Brothers: Pod kapotou 6
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 01:30
-End Time: 02:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15110247-sk/dokument/diesel-brothers-pod-kapotou/
-Original Name: Brake Room: Ryan Blaney vs Matt D’Andria
-Year: 
-Description: Ryan Blaney versus Matt D’Andria. Dokument. Závodník třetí generace a řidič týmu Penske v Nascar, Ryan Blaney, stojí proti moderátorovi motoristického televizního pořadu Mattovi D’Andria
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Nazí a vystrašení: Apokalypsa 1
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 02:00
-End Time: 04:00
-Duration: 120 min
-Channel: Discovery Channel
-Link: /dokument/nazi-a-vystraseni-apokalypsa/
-Original Name: Naked And Afraid Apocalypse: Starting At The End Of Days
-Year: 
-Description: Začít na konci dne. Dokument. Dvanáct ostřílených veteránů prohledává ruiny v pustině. Samotářský slon je donutí postavit si úkryt z vraků aut
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 4
-Day: Pondelok
-Date: 13.10.2025
-Start Time: 04:00
-End Time: 04:50
-Duration: 50 min
-Channel: Discovery Channel
-Link: /146426-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Renault Alpine
-Year: 
-Description: Dokument. Talentovaný mechanik Ant Anstead a prodejce automobilů Mike Brewer mají náročný úkol: najít a renovovat ikonické automobily, které hodlají následně prodávat ve své dílně v LA
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu: Klasická auta 3
-Day: Utorok
-Date: 14.10.2025
-Start Time: 05:00
-End Time: 06:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /156361-sk/dokument/lovci-odpadu-klasicka-auta/
-Original Name: Salvage Hunters: Classic Cars: Ford Cortina GT & Saab 96
-Year: 
-Description: Dokument. Paul a Drew míří do Kentu podívat se na skvělý roadster Sunbeam Alpine. Poptávka po něm je velká a Paul si je jistý, že jde o dobrý nákup, ale Drew se potřebuje přesvědčit
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 3
-Day: Utorok
-Date: 14.10.2025
-Start Time: 06:00
-End Time: 07:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146479-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: 1991 Toyota MR2 Turbo
-Year: 
-Description: Range Rover. Dokument. Bláznivý motorista Mike se vydává napříč Amerikou, kde hledá ikonické vozy, které by Edd mohl přeměnit ze zrezlých vraků na vysněné stroje. Vydělají na těchto klasických autech?
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 6
-Day: Utorok
-Date: 14.10.2025
-Start Time: 07:00
-End Time: 08:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /156340-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: G Wagen
-Year: 
-Description: Volkswagen Rabbit GTI. Dokument. Před talentovaným mechanikem Antem Ansteadem a prodejcem automobilů Mikem Brewerem stojí náročný úkol: najít a renovovat ikonické automobily a následně je prodávat ve své dílně
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Jak se to dělá 12
-Day: Utorok
-Date: 14.10.2025
-Start Time: 08:00
-End Time: 08:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /164656-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Chinese Style Furniture, Electrical Switches
-Year: 1999
-Description: Perníkové domečky, přívěsy pro skot, dveře hangáru a figurky pro děti. Dokumentární seriál Kan. (1999). Podívejte se, jak se vyrábějí perníkové domečky, přívěsy pro skot, dveře hangáru na kolečkách a figurky pro děti
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Jak to dělají? 2
-Day: Utorok
-Date: 14.10.2025
-Start Time: 08:30
-End Time: 09:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /199540-sk/dokument/jak-to-delaji-2006/
-Original Name: How Do They Do It?
-Year: 2006
-Description: Dokumentární seriál Kan./VB (2006). Blíže se seznámíte s inženýry a vizionářskými průmyslovými návrháři, kteří zodpovídají za výrobu a provoz celé škály obyčejných předmětů
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu 10
-Day: Utorok
-Date: 14.10.2025
-Start Time: 09:00
-End Time: 10:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /193590-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters: Preston Court
-Year: 2011
-Description: Dokumentární seriál VB (2011). Drew vyjednává s dealerem v alžbětinském panském sídle, je uchvácen tryskovým motorem ve velšském muzeu a v Sheffieldu potká starého přítele a narazí na moderní poklad
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Souboj starožitníků 1
-Day: Utorok
-Date: 14.10.2025
-Start Time: 10:00
-End Time: 11:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /dokument/souboj-starozitniku/
-Original Name: The Great Antiques Challenge: Industrial Salvage/Mid Century Sideboard
-Year: 
-Description: Průmyslový prvek/Příborník z poloviny století. Dokument. Prodejci soutěží ve shánění průmyslových prvků pro krb jednoho majitele domu a také nábytek z poloviny století pro vytopený bar
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Opravy farem 4
-Day: Utorok
-Date: 14.10.2025
-Start Time: 11:00
-End Time: 12:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13363297-sk/dokument/opravy-farem/
-Original Name: Farmhouse Fixer: A Farmhouse for a Chef
-Year: 
-Description: Farma pro šéfkuchaře. Dokument. Zastaralý statek je přeměněn na funkční rodinný dům. Jon Knight a Kristina Crestin vytvoří kuchyň vhodnou pro šéfkuchaře, útulnou a tradiční novoanglickou rodinnou místnost
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 4
-Day: Utorok
-Date: 14.10.2025
-Start Time: 12:00
-End Time: 13:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146426-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Renault Alpine
-Year: 
-Description: Dokument. Talentovaný mechanik Ant Anstead a prodejce automobilů Mike Brewer mají náročný úkol: najít a renovovat ikonické automobily, které hodlají následně prodávat ve své dílně v LA
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Ostřílení řidiči kamionů 1
-Day: Utorok
-Date: 14.10.2025
-Start Time: 13:00
-End Time: 14:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /8658907-sk/dokument/ostrileni-ridici-kamionu/
-Original Name: Mighty Truckers
-Year: 
-Description: Dokument. Ponoříme se do světa nákladní přepravy a budeme sledovat evropské a nizozemské řidiče kamionů a jejich každodenní život na cestách
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Ostřílení řidiči kamionů 2
-Day: Utorok
-Date: 14.10.2025
-Start Time: 14:00
-End Time: 15:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /9044021-sk/dokument/ostrileni-ridici-kamionu/
-Original Name: Mighty Truckers
-Year: 
-Description: Dokument. Práce řidiče kamionu není snadná: za volantem musí trávit dlouhé hodiny a silnice jsou často velmi rušné. Řidiči z Německa, Itálie a Holandska sdílejí své zážitky z cest
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Hraniční kontrola: Španělsko 15
-Day: Utorok
-Date: 14.10.2025
-Start Time: 15:00
-End Time: 15:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /8650693-sk/dokument/hranicni-kontrola-spanelsko/
-Original Name: Border Control: Spain
-Year: 
-Description: Dokument. Sleduje zásahové akce bezpečnostních a celních služeb na španělských hranicích, které neustále ohrožují pašeráci drog a zbraní či podezřelí teroristé
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Hraniční kontrola: Španělsko 16
-Day: Utorok
-Date: 14.10.2025
-Start Time: 15:30
-End Time: 16:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /8652403-sk/dokument/hranicni-kontrola-spanelsko/
-Original Name: Border Control: Spain
-Year: 
-Description: Dokument. Sleduje zásahové akce bezpečnostních a celních služeb na španělských hranicích, které neustále ohrožují pašeráci drog a zbraní či podezřelí teroristé
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Nazí a vystrašení 13
-Day: Utorok
-Date: 14.10.2025
-Start Time: 16:00
-End Time: 17:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /1258889-sk/dokument/nazi-a-vystraseni/
-Original Name: Naked And Afraid: Naked And Ghosted
-Year: 
-Description: Dokument. Ti nejlepší dostanou nejtěžší svůj dosavadní úkol v mexické džungli. Setkají se s prudkými lijáky, tajemnými zvuky a bouřemi s blesky!
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Ant Anstead, mistr mechanik 1
-Day: Utorok
-Date: 14.10.2025
-Start Time: 17:00
-End Time: 17:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /12166917-sk/dokument/ant-anstead-mistr-mechanik/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Ant Anstead, mistr mechanik 2
-Day: Utorok
-Date: 14.10.2025
-Start Time: 17:30
-End Time: 18:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /12211611-sk/dokument/ant-anstead-mistr-mechanik/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Jak to dělají? 7
-Day: Utorok
-Date: 14.10.2025
-Start Time: 18:00
-End Time: 18:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /172588-sk/dokument/jak-to-delaji/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Jak se to dělá 3
-Day: Utorok
-Date: 14.10.2025
-Start Time: 18:30
-End Time: 19:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /156476-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Fishing Line, Industrial Mixers
-Year: 1999
-Description: Vlasce, komerční mixery, přírodní jedlá soda, odtahové vozy. Dokumentární seriál Kan. (1999). Zajímá vás, jak se vyrábí věci každodenní potřeby? Zaměříme se na další běžné věci, abychom to zjistili
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Rychle a hlasitě 5
-Day: Utorok
-Date: 14.10.2025
-Start Time: 19:00
-End Time: 20:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13514677-sk/dokument/rychle-a-hlasite/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Zlatá horečka: Freddy Dodge zachraňuje zlaté doly 1
-Day: Utorok
-Date: 14.10.2025
-Start Time: 20:00
-End Time: 21:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /1243205-sk/dokument/zlata-horecka-freddy-dodge-zachranuje-zlate-doly/
-Original Name: Gold Rush: Freddy Dodge’s Mine Rescue: Bonanza Or Bust
-Year: 
-Description: Zlato, nebo nic. Dokument. Freddy Dodge a Juan Ibarra se připravují na další záchranné akce ve zlatých dolech. Než se opět vydají na cestu, věnují čas zamyšlení se nad předchozími problémy a úspěchy
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Zlato z Beringova moře 24
-Day: Utorok
-Date: 14.10.2025
-Start Time: 21:00
-End Time: 22:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /869359-sk/dokument/zlato-z-beringova-more/
-Original Name: Gold Divers
-Year: 
-Description: Dokument. Začíná zlatá horečka, když je na dně Beringova moře objeven tento vzácný kov. Skupina lidí je odhodlána riskovat, aby ho všechen dostala na povrch
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Honička ve vysoké rychlosti 10
-Day: Utorok
-Date: 14.10.2025
-Start Time: 22:00
-End Time: 23:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /10882585-sk/dokument/honicka-ve-vysoke-rychlosti/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Výrobci načerno páleného alkoholu: Obchod s whisky 4
-Day: Utorok
-Date: 14.10.2025
-Start Time: 23:00
-End Time: 00:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /15128073-sk/dokument/vyrobci-nacerno-paleneho-alkoholu-obchod-s-whisky/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Lovci odpadu: Restaurátoři 6
-Day: Utorok
-Date: 14.10.2025
-Start Time: 00:00
-End Time: 01:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /306792-sk/dokument/lovci-odpadu-restauratori/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Diesel Brothers: Pod kapotou 7
-Day: Utorok
-Date: 14.10.2025
-Start Time: 01:00
-End Time: 01:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15128079-sk/dokument/diesel-brothers-pod-kapotou/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Diesel Brothers: Pod kapotou 8
-Day: Utorok
-Date: 14.10.2025
-Start Time: 01:30
-End Time: 02:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15128083-sk/dokument/diesel-brothers-pod-kapotou/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Zlatá horečka: Freddy Dodge zachraňuje zlaté doly 1
-Day: Utorok
-Date: 14.10.2025
-Start Time: 02:00
-End Time: 03:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /1243205-sk/dokument/zlata-horecka-freddy-dodge-zachranuje-zlate-doly/
-Original Name: Gold Rush: Freddy Dodge’s Mine Rescue: Bonanza Or Bust
-Year: 
-Description: Zlato, nebo nic. Dokument. Freddy Dodge a Juan Ibarra se připravují na další záchranné akce ve zlatých dolech. Než se opět vydají na cestu, věnují čas zamyšlení se nad předchozími problémy a úspěchy
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Zlato z Beringova moře 24
-Day: Utorok
-Date: 14.10.2025
-Start Time: 03:00
-End Time: 04:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /869359-sk/dokument/zlato-z-beringova-more/
-Original Name: Gold Divers
-Year: 
-Description: Dokument. Začíná zlatá horečka, když je na dně Beringova moře objeven tento vzácný kov. Skupina lidí je odhodlána riskovat, aby ho všechen dostala na povrch
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 5
-Day: Utorok
-Date: 14.10.2025
-Start Time: 04:00
-End Time: 04:50
-Duration: 50 min
-Channel: Discovery Channel
-Link: /146428-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Porsche 914
-Year: 
-Description: Alfa Romeo 164L z roku 1991. Dokument. Mike vystopuje vzácné Alfa Romeo 164L z roku 1991. Antovi se líbí, ale čeká ho spousta práce, protože bezchybná karoserie skrývá netěsnící motor
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu: Klasická auta 1
-Day: Streda
-Date: 15.10.2025
-Start Time: 05:00
-End Time: 06:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /156357-sk/dokument/lovci-odpadu-klasicka-auta/
-Original Name: Salvage Hunters: Classic Cars: Golf And Lotus
-Year: 
-Description: Dokument. Paul pracuje na velkolepé restauraci, když se Drew zamiluje a koupí klasiku automobilového designu, kupé Fiat 130, který však má vážný problém s korozí
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 4
-Day: Streda
-Date: 15.10.2025
-Start Time: 06:00
-End Time: 07:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146426-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Renault Alpine
-Year: 
-Description: Dokument. Talentovaný mechanik Ant Anstead a prodejce automobilů Mike Brewer mají náročný úkol: najít a renovovat ikonické automobily, které hodlají následně prodávat ve své dílně v LA
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 7
-Day: Streda
-Date: 15.10.2025
-Start Time: 07:00
-End Time: 08:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: VW 181 Thing
-Year: 
-Description: Dodávka Dodge A100. Dokument. Talentovaný mechanik Ant Anstead a prodejce automobilů Mike Brewer mají náročný úkol: najít a renovovat ikonické automobily, které hodlají následně prodávat ve své dílně v LA
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Jak se to dělá 13
-Day: Streda
-Date: 15.10.2025
-Start Time: 08:00
-End Time: 08:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /187628-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Race Car Oil Tanks, Plaster Moldings
-Year: 1999
-Description: Sloupy dopravních značek, filtry na kávu a těžební stroje. Dokumentární seriál Kan. (1999). Podívejte se, jak se vyrábějí sloupy dopravních značek, filtry na kávu a těžební stroje
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Jak to dělají? 3
-Day: Streda
-Date: 15.10.2025
-Start Time: 08:30
-End Time: 09:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /306804-sk/dokument/jak-to-delaji-2006/
-Original Name: How Do They Do It?
-Year: 2006
-Description: Dokumentární seriál Kan./VB (2006). Blíže se seznámíte s inženýry a vizionářskými průmyslovými návrháři, kteří zodpovídají za výrobu a provoz celé škály obyčejných předmětů
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu 11
-Day: Streda
-Date: 15.10.2025
-Start Time: 09:00
-End Time: 10:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /199524-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters: Vintage Retro
-Year: 2011
-Description: Dokumentární seriál VB (2011). V Tyne and Wear se Drew snaží splnit očekávání zákazníka, který má zálibu v módě z poloviny 20. století. Navíc je okouzlen bývalým klášterem, kde mu padne do oka vzácné zrcadlo
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Souboj starožitníků 2
-Day: Streda
-Date: 15.10.2025
-Start Time: 10:00
-End Time: 11:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /9582967-sk/dokument/souboj-starozitniku/
-Original Name: The Great Antiques Challenge: Baker’s Table/Victorian Salvage
-Year: 
-Description: Pekařský stůl/Viktoriánský prvek. Dokument. Prodejci soutěží v hledání pekařského stolu do rodinné kuchyně. Také hledají viktoriánské průmyslové prvky pro majitele restaurace
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Opravy farem 5
-Day: Streda
-Date: 15.10.2025
-Start Time: 11:00
-End Time: 12:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13363301-sk/dokument/opravy-farem/
-Original Name: Farmhouse Fixer: A Bakeshop Kitchen
-Year: 
-Description: Kuchyně pro pekařku. Dokument. Je to sladká renovace, když se Jon Knight a jeho tým pustí do domu pekařky z roku 1910. Společně jí vytvoří okouzlující retro kuchyni, kterou by si zamiloval každý pekař
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 5
-Day: Streda
-Date: 15.10.2025
-Start Time: 12:00
-End Time: 13:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146428-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Porsche 914
-Year: 
-Description: Alfa Romeo 164L z roku 1991. Dokument. Mike vystopuje vzácné Alfa Romeo 164L z roku 1991. Antovi se líbí, ale čeká ho spousta práce, protože bezchybná karoserie skrývá netěsnící motor
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 4
-Day: Streda
-Date: 15.10.2025
-Start Time: 13:00
-End Time: 14:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146426-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Renault Alpine
-Year: 
-Description: Dokument. Talentovaný mechanik Ant Anstead a prodejce automobilů Mike Brewer mají náročný úkol: najít a renovovat ikonické automobily, které hodlají následně prodávat ve své dílně v LA
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 5
-Day: Streda
-Date: 15.10.2025
-Start Time: 14:00
-End Time: 15:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146428-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Porsche 914
-Year: 
-Description: Alfa Romeo 164L z roku 1991. Dokument. Mike vystopuje vzácné Alfa Romeo 164L z roku 1991. Antovi se líbí, ale čeká ho spousta práce, protože bezchybná karoserie skrývá netěsnící motor
-Score: 56%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 6
-Day: Streda
-Date: 15.10.2025
-Start Time: 15:00
-End Time: 16:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /156340-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: G Wagen
-Year: 
-Description: Volkswagen Rabbit GTI. Dokument. Před talentovaným mechanikem Antem Ansteadem a prodejcem automobilů Mikem Brewerem stojí náročný úkol: najít a renovovat ikonické automobily a následně je prodávat ve své dílně
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Nazí a vystrašení 1
-Day: Streda
-Date: 15.10.2025
-Start Time: 16:00
-End Time: 17:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /510763-sk/dokument/nazi-a-vystraseni/
-Original Name: Naked And Afraid: Thieves In The Night
-Year: 
-Description: Dokument. Módní producentka ze Seattlu Ava je se záchranářem Larrym z Kentucky v nebezpečné mayské džungli v Mexiku, kde je vylekají zdravotní problémy
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Ant Anstead, mistr mechanik 3
-Day: Streda
-Date: 15.10.2025
-Start Time: 17:00
-End Time: 17:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /320562-sk/dokument/ant-anstead-mistr-mechanik/
-Original Name: Ant Anstead Master Mechanic: Scavengers Delight
-Year: 
-Description: Radost z odpadu. Dokument. Ant navštíví odborníka na Alfy a získá víc, než čekal. Je to výhodné pro obě strany, ale přece jen nebude jednoduché do jeho 158 umístit hřídel, převodovku a motor ze Spideru
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Ant Anstead, mistr mechanik 4
-Day: Streda
-Date: 15.10.2025
-Start Time: 17:30
-End Time: 18:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /320564-sk/dokument/ant-anstead-mistr-mechanik/
-Original Name: Ant Anstead Master Mechanic: Across The Pond
-Year: 
-Description: Přes moře. Dokument. Ant se u svého ambiciózního projektu začíná cítit pod tlakem. Jediné místo, kde může v krátké době sehnat správnou karosérii, se nachází 8 000 km daleko
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Jak to dělají? 8
-Day: Streda
-Date: 15.10.2025
-Start Time: 18:00
-End Time: 18:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /172590-sk/dokument/jak-to-delaji/
-Original Name: How Do They Do It?: Suspension Bridge, Crossbows
-Year: 
-Description: Dokument. K výrobě mnohých předmětů každodenního života jsou v moderní společnosti používány sofistikované inženýrské procesy. Jak vypadají?
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Jak se to dělá 4
-Day: Streda
-Date: 15.10.2025
-Start Time: 18:30
-End Time: 19:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /156478-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Storage Sheds, Industrial Fans
-Year: 1999
-Description: Zahradní domky, komerční ventilátory, voskový papír, lezecké zdi. Dokumentární seriál Kan. (1999). Zajímá vás, jak se vyrábí věci každodenní potřeby? Zaměříme se na další běžné věci, abychom to zjistili
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Rychle a hlasitě 6
-Day: Streda
-Date: 15.10.2025
-Start Time: 19:00
-End Time: 20:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13793365-sk/dokument/rychle-a-hlasite/
-Original Name: Fast N’ Loud: Million Dollar Monkey
-Year: 
-Description: Dokument. Aaron vyzve tým z garáže k rekonstrukci vozu Chevy z roku 1955, který Richard plánuje prodat s dalšími vozy v ceně asi milion dolarů na aukci Barrett-Jackson
-Score: 63%
-Genre: dokumentární
-----------------------------------------
-Title: Mike Brewer: Pořádný obchod 4
-Day: Streda
-Date: 15.10.2025
-Start Time: 20:00
-End Time: 21:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /15148133-sk/dokument/mike-brewer-poradny-obchod/
-Original Name: Mike Brewer: Born Dealer
-Year: 
-Description: Dokument. Mike koupí na aukci auto v mizerném stavu. Starosti mu přidělává i BMW M3. Mike se pokusí prodat Stigovi pěkné malé auto
-Score: 61%
-Genre: dokumentární
-----------------------------------------
-Title: Dvě turba 8
-Day: Streda
-Date: 15.10.2025
-Start Time: 21:00
-End Time: 22:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /15148137-sk/dokument/dve-turba/
-Original Name: Twin Turbos: Race To The Finish
-Year: 
-Description: Dokument. Brad DeBerti byl nadějnou hvězdou automobilových závodů, má na kontu dvě velké výhry. Po vážné nehodě se však s otcem věnuje zakázkové výrobě osobních i nákladních automobilů
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Rychle a hlasitě 5
-Day: Streda
-Date: 15.10.2025
-Start Time: 22:00
-End Time: 23:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13514677-sk/dokument/rychle-a-hlasite/
-Original Name: 
-Year: 
-Description: 
-Score: 
-Genre: 
-----------------------------------------
-Title: Na pokraji Aljašky 1
-Day: Streda
-Date: 15.10.2025
-Start Time: 23:00
-End Time: 00:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /396415-sk/dokument/na-pokraji-aljasky/
-Original Name: Edge of Alaska: Winter’s Grip
-Year: 
-Description: Sevření zimy. Dokument. V aljašské divočině se ukrývá nejdrsnější americké město: McCarthy. 42 duší, které zde statečně žijí, musí čelit přírodním živlům, aby nepřišly o svůj průkopnický styl života
-Score: 61%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu: Restaurátoři 7
-Day: Streda
-Date: 15.10.2025
-Start Time: 00:00
-End Time: 01:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /306794-sk/dokument/lovci-odpadu-restauratori/
-Original Name: Salvage Hunters: The Restorers
-Year: 
-Description: Dokument VB. Čalouník Craig se obává opravy mimořádně vzácné kožené pohovky. A odborník na pinball Mark zažije při opravě klasického stroje překvapení
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Diesel Brothers: Pod kapotou 9
-Day: Streda
-Date: 15.10.2025
-Start Time: 01:00
-End Time: 01:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15148147-sk/dokument/diesel-brothers-pod-kapotou/
-Original Name: Brake Room: Jeff Allen Vs The Humble Mechanic
-Year: 
-Description: Jeff Allen versus skromný mechanik. Dokument. Moderátor Nick Stevens postaví nejlepšího prodejce automobilů a podcastera Jeffa Allena proti Charlesi Sanvilleovi ze seriálu Skromný mechanik, bude to bitva vousů a mozků
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Diesel Brothers: Pod kapotou 10
-Day: Streda
-Date: 15.10.2025
-Start Time: 01:30
-End Time: 02:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15148151-sk/dokument/diesel-brothers-pod-kapotou/
-Original Name: Brake Room: Wee Man Vs Jeff Allen
-Year: 
-Description: Jason Acuna versus Jeff Allen. Dokument. Legendární komik a skateboardista Jason Acuna a podcaster Jeff Allen společně sledují a komentují nejbláznivější videa ze světa motorů
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Mike Brewer: Pořádný obchod 4
-Day: Streda
-Date: 15.10.2025
-Start Time: 02:00
-End Time: 03:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /15148133-sk/dokument/mike-brewer-poradny-obchod/
-Original Name: Mike Brewer: Born Dealer
-Year: 
-Description: Dokument. Mike koupí na aukci auto v mizerném stavu. Starosti mu přidělává i BMW M3. Mike se pokusí prodat Stigovi pěkné malé auto
-Score: 61%
-Genre: dokumentární
-----------------------------------------
-Title: Dvě turba 8
-Day: Streda
-Date: 15.10.2025
-Start Time: 03:00
-End Time: 04:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /15148137-sk/dokument/dve-turba/
-Original Name: Twin Turbos: Race To The Finish
-Year: 
-Description: Dokument. Brad DeBerti byl nadějnou hvězdou automobilových závodů, má na kontu dvě velké výhry. Po vážné nehodě se však s otcem věnuje zakázkové výrobě osobních i nákladních automobilů
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Rození obchodníci 6
-Day: Streda
-Date: 15.10.2025
-Start Time: 04:00
-End Time: 04:50
-Duration: 50 min
-Channel: Discovery Channel
-Link: /156340-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: G Wagen
-Year: 
-Description: Volkswagen Rabbit GTI. Dokument. Před talentovaným mechanikem Antem Ansteadem a prodejcem automobilů Mikem Brewerem stojí náročný úkol: najít a renovovat ikonické automobily a následně je prodávat ve své dílně
-Score: 57%
-Genre: dokumentární
-----------------------------------------
 Title: Lovci odpadu: Klasická auta 2
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 05:00
 End Time: 06:00
 Duration: 60 min
@@ -1160,25 +12,11 @@ Description: Dokument. Pánové jedou do Cumbria, aby koupili typickou britskou 
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Rození obchodníci 5
-Day: Štvrtok
-Date: 16.10.2025
-Start Time: 06:00
-End Time: 07:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /146428-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: Porsche 914
-Year: 
-Description: Alfa Romeo 164L z roku 1991. Dokument. Mike vystopuje vzácné Alfa Romeo 164L z roku 1991. Antovi se líbí, ale čeká ho spousta práce, protože bezchybná karoserie skrývá netěsnící motor
-Score: 56%
-Genre: dokumentární
-----------------------------------------
 Title: Rození obchodníci 8
 Day: Štvrtok
-Date: 16.10.2025
-Start Time: 07:00
-End Time: 08:00
+Date: 06.11.2025
+Start Time: 06:00
+End Time: 07:00
 Duration: 60 min
 Channel: Discovery Channel
 Link: /146430-sk/dokument/rozeni-obchodnici/
@@ -1188,79 +26,107 @@ Description: Ford Popular. Dokument. Mike se snaží sehnat otcovo oblíbené au
 Score: 56%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak se to dělá 14
+Title: Rození obchodníci 3
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
+Start Time: 07:00
+End Time: 08:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /146479-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: 1991 Toyota MR2 Turbo
+Year: 
+Description: Range Rover. Dokument. Bláznivý motorista Mike se vydává napříč Amerikou, kde hledá ikonické vozy, které by Edd mohl přeměnit ze zrezlých vraků na vysněné stroje. Vydělají na těchto klasických autech?
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 4
+Day: Štvrtok
+Date: 06.11.2025
 Start Time: 08:00
 End Time: 08:30
 Duration: 30 min
 Channel: Discovery Channel
-Link: /187630-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Coconut Charcoal, Dial Indicators, Wet Downdraft Tables, And Bassoon Reeds
-Year: 1999
-Description: Zámky s časovým zpožděním, čokoládové dortíky, zásobníky palet a křišťálové lustry. Dokumentární seriál Kan. (1999). Zjistěte, jak se vyrábějí zámky s časovým zpožděním, čokoládové dortíky, zásobníky palet a křišťálové lustry
+Link: /146565-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Hunting Decoys/Canned Tomatoes/Lassos
+Year: 
+Description: Dostavníky, silniční odrazky, vypalovaná keramika a zakázkové motocyklové nádrže. Dokument. Podíváte se, jak se vyrábějí dostavníky, silniční odrazky, vypalovaná keramika či zakázkové motocyklové nádrže
 Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak to dělají? 4
+Title: Jak to dělají? 19
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 08:30
 End Time: 09:00
 Duration: 30 min
 Channel: Discovery Channel
-Link: /245317-sk/dokument/jak-to-delaji-2006/
+Link: /1013894-sk/dokument/jak-to-delaji-2006/
 Original Name: How Do They Do It?
 Year: 2006
-Description: Dokumentární seriál Kan./VB (2006). Blíže se seznámíte s inženýry a vizionářskými průmyslovými návrháři, kteří zodpovídají za výrobu a provoz celé škály obyčejných předmětů
-Score: 60%
+Description: Dokumentární seriál Kan./VB (2006). Jak se zhotovují moderní dlažební kostky a jaké proměny prodělal tento výrobní postup? A jak se šije tradiční smoking?
+Score: 61%
 Genre: dokumentární
 ----------------------------------------
 Title: Lovci odpadu 12
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 09:00
 End Time: 10:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /205297-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters: Edinburgh Zoo
-Year: 2011
-Description: Dokumentární seriál VB (2011). Drew si prohlíží zvláštní předměty v ZOO v Edinburghu, zavítá do historické továrny ve skotském pohraničí, kde se vyráběly textilie pro nábytek, a navštíví přátele v Bristolu
-Score: 60%
+Link: /452663-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters
+Year: 
+Description: Dokument. Lovec pokladů moderní doby, Drew Pritchard, cestuje po celé Velké Británii a hledá podivné a zajímavé předměty. Čím větší hora pokladů, tím šťastnější je
+Score: 56%
 Genre: dokumentární
 ----------------------------------------
-Title: Souboj starožitníků 3
+Title: Lovci odpadu: Restaurátoři 10
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 10:00
 End Time: 11:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /9665127-sk/dokument/souboj-starozitniku/
-Original Name: The Great Antiques Challenge: Wall Feature/ Wedding Centrepiece
+Link: /172495-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
 Year: 
-Description: Nástěnný prvek/Svatební dekorace. Dokument. Prodejci soutěží v hledání funkčního prvku do velkého a složitého prostoru kuchyně. Také hledají jedinečný hlavní prvek, který ohromí svatební hosty
+Description: Dokument VB. Čalouník Craig a kovář Nev promění objemné křeslo v něco umělečtějšího. Koželuh Martin zachraňuje piknikovou soupravu Asprey
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 8
+Day: Štvrtok
+Date: 06.11.2025
+Start Time: 11:00
+End Time: 11:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13085199-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Tiny House, Big Expectations
+Year: 
+Description: Maličký dům, velké naděje. Dokument. Nakupující si chce pořídit menší nemovitost. Má však omezený rozpočet a řadu požadavků, které jen tak nepůjde vměstnat do maličkého domu
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Opravy farem 6
+Title: Lovci maličkých domů 9
 Day: Štvrtok
-Date: 16.10.2025
-Start Time: 11:00
+Date: 06.11.2025
+Start Time: 11:30
 End Time: 12:00
-Duration: 60 min
+Duration: 30 min
 Channel: Discovery Channel
-Link: /13466099-sk/dokument/opravy-farem/
-Original Name: Farmhouse Fixer: The Horse Farmhouse
+Link: /13085203-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Family Of Five Goes Tiny
 Year: 
-Description: Koňská farma. Dokument. Jon a Kristina se pustí do své největší renovace, když předělají koňskou farmu jednoho páru. Jejich úkolem je spojit všechny požadavky klientů do jednoho uceleného domu
+Description: Maličký dům pro pětičlennou rodinu. Dokument. Pár z Jižní Dakoty si chce zjednodušit život a hledá maličký dům v Idahu pro svou pětičlennou rodinu
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
 Title: Rození obchodníci 6
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 12:00
 End Time: 13:00
 Duration: 60 min
@@ -1272,247 +138,219 @@ Description: Volkswagen Rabbit GTI. Dokument. Před talentovaným mechanikem Ant
 Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Zlatá horečka: Freddy Dodge zachraňuje zlaté doly 4
+Title: Zlatá horečka: Freddy Dodge zachraňuje zlaté doly 1
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 13:00
 End Time: 14:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /10458097-sk/dokument/zlata-horecka-freddy-dodge-zachranuje-zlate-doly/
-Original Name: Gold Rush: Mine Rescue with Freddy & Juan: Nature’s ATM
+Link: /1243205-sk/dokument/zlata-horecka-freddy-dodge-zachranuje-zlate-doly/
+Original Name: Gold Rush: Freddy Dodge’s Mine Rescue: Bonanza Or Bust
 Year: 
-Description: Přírodní bankomat. Dokument. Freddy a Juan oživují padesát let starou promývačku v horách Montany, kde musí hornická rodina dosáhnout zisku, jestli chce svůj podnik zachránit
-Score: 59%
+Description: Zlato, nebo nic. Dokument. Freddy Dodge a Juan Ibarra se připravují na další záchranné akce ve zlatých dolech. Než se opět vydají na cestu, věnují čas zamyšlení se nad předchozími problémy a úspěchy
+Score: 60%
 Genre: dokumentární
 ----------------------------------------
-Title: Zlatá horečka: Freddy Dodge zachraňuje zlaté doly 5
+Title: Zlatá horečka: Freddy Dodge zachraňuje zlaté doly 2
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 14:00
 End Time: 15:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /10182905-sk/dokument/zlata-horecka-freddy-dodge-zachranuje-zlate-doly/
-Original Name: Gold Rush: Mine Rescue with Freddy & Juan: Bust Or Gold Boom?
+Link: /10371325-sk/dokument/zlata-horecka-freddy-dodge-zachranuje-zlate-doly/
+Original Name: Gold Rush: Mine Rescue with Freddy & Juan: Dry Or Die
 Year: 
-Description: Konec, nebo hrnec zlata? Dokument. Freddy a Juan pomáhají zlatokopovi v Britské Kolumbii, jehož poslední sezóna skončila bez zisku. Hledání nového území vede k šokujícím výsledkům
-Score: 58%
+Description: Dry Or Die. Dokument. Odborníci na těžbu zlata Freddy Dodge a Juan Ibarra pomáhají majitelům dolů s problémy. Pokud se jim podaří zvýšit těžbu zlata, dostanou podíl ze zisku
+Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Hledání opálů v australském vnitrozemí 17
+Title: Hledání opálů v australském vnitrozemí 20
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 15:00
 End Time: 16:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /8667519-sk/dokument/hledani-opalu-v-australskem-vnitrozemi/
+Link: /9064063-sk/dokument/hledani-opalu-v-australskem-vnitrozemi/
 Original Name: Outback Opal Hunters
 Year: 
-Description: Dokument. Bishop a Scotty se snaží zabezpečit zeď a nakonec způsobí lavinu. Mezitím má kompaktní nakladač Mooka Boys kritickou poruchu
+Description: Dokument. Křováci riskují život při kopání v místech, kde zloději opálů odstranili stropní podpěry. Mezitím se Světlonoši přeorientují na nebezpečnou noční těžbu
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Nazí a vystrašení 2
+Title: Nazí a vystrašení 8
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 16:00
 End Time: 17:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /709172-sk/dokument/nazi-a-vystraseni/
-Original Name: Naked And Afraid: Burnt To A Crisp
+Link: /306812-sk/dokument/nazi-a-vystraseni/
+Original Name: Naked And Afraid: Category 5 Survival
 Year: 
-Description: Dokument. Dva survivalisté musí přežít 21 dnů bez jídla, vody nebo oblečení v jednom z nejextrémnějších a nejodlehlejších míst na světě. Jak to zvládnou?
+Description: Hurikán pátého stupně. Dokument. Ve floridských mokřadech musí irácký uprchlík Amal s partnerem Dukem čelit hurikánu pátého stupně. Jak se vypořádají s extrémním počasím?
 Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Ant Anstead, mistr mechanik 5
+Title: Shortyho vysněný obchod 1
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 17:00
-End Time: 17:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /374040-sk/dokument/ant-anstead-mistr-mechanik/
-Original Name: Ant Anstead Master Mechanic: The One-Armed Bandit
-Year: 
-Description: Jednoruký bandita. Dokument. Stavba Alfy je zhruba v polovině, ale celý projekt ohrozí natržený sval. Antovu ženu překvapí, když zjistí, že 158 je jednomístné auto
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Ant Anstead, mistr mechanik 6
-Day: Štvrtok
-Date: 16.10.2025
-Start Time: 17:30
 End Time: 18:00
-Duration: 30 min
+Duration: 60 min
 Channel: Discovery Channel
-Link: /374042-sk/dokument/ant-anstead-mistr-mechanik/
-Original Name: Ant Anstead Master Mechanic: Does My Chassis Look Big In This?
+Link: /dokument/shortyho-vysneny-obchod/
+Original Name: Shorty’s Dream Shop: 1966 Chevy Time Machine
 Year: 
-Description: Není ten podvozek moc velký? Dokument. Práce na 158 pokračuje a Antova ruka se uzdravuje, ale stále potřebuje pomoc. Karosérie je zatím stále v přepravě a možná se nebude hodit na podvozek
-Score: 59%
+Description: Stroj času Chevy 1966. Dokument. Kabriolet Chevy Impala z roku 1966 se od Shortyho a jeho týmu dočká kompletní úpravy: nového laku, motoru, interiéru a střechy, a navíc se odstraní spousta rzi
+Score: 60%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak to dělají? 9
+Title: Jak to dělají? 4
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 18:00
 End Time: 18:30
 Duration: 30 min
 Channel: Discovery Channel
-Link: /172592-sk/dokument/jak-to-delaji/
-Original Name: How Do They Do It?: Wensleydale Cheese, Paintbrushes
+Link: /235139-sk/dokument/jak-to-delaji/
+Original Name: How Do They Do It?: Cameras, Big Airbags, Jelly Beans
 Year: 
-Description: Dokument. K výrobě mnoha předmětů běžných v moderní společnosti jsou používány sofistikované inženýrské procesy. Jak vypadají?
-Score: 59%
+Description: Svět v miniatuře/Testovací centrum hurikánů/Rebarbora. Dokument. Jak postavit funkční miniaturní letiště; jak postavit dům, který by odolal hurikánu; a jak ve tmě pěstovat rebarboru?
+Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak se to dělá 5
+Title: Jak se to dělá 7
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 18:30
 End Time: 19:00
 Duration: 30 min
 Channel: Discovery Channel
-Link: /156480-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Concrete Walls, 3D Printers
-Year: 1999
-Description: Betonové zdi, 3D tiskárny, teleskopické jeřáby a petrolejové lampy. Dokumentární seriál Kan. (1999). Ukážeme vám, jak se vyrábí prefabrikované betonové zdi, 3D tiskárny, teleskopické jeřáby a petrolejové lampy
+Link: /146569-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Fish Decoys/Film Digitization
+Year: 
+Description: U-zámky, vigvamy, francouzské rohlíky a zavazadla na kolečkách. Dokument. Podíváte se, jak se vyrábějí U-zámky, vigvamy, francouzské rohlíky a zavazadla na kolečkách
 Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Rychle a hlasitě 7
+Title: Rychle a hlasitě 6
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 19:00
 End Time: 20:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /13903121-sk/dokument/rychle-a-hlasite/
-Original Name: Fast N’ Loud: Harley And Me
+Link: /13793365-sk/dokument/rychle-a-hlasite/
+Original Name: Fast N’ Loud: Million Dollar Monkey
 Year: 
-Description: Dokument. Richard Rawlings a Aaron Kaufmann hledají po zapadlých koutech Texasu a sousedních státech výjimečné kousky a zpustlé klasické vozy
-Score: 63%
+Description: Dokument. Aaron vyzve tým z garáže k rekonstrukci vozu Chevy z roku 1955, který Richard plánuje prodat s dalšími vozy v ceně asi milion dolarů na aukci Barrett-Jackson
+Score: 64%
 Genre: dokumentární
 ----------------------------------------
-Title: Nejsmrtelnější úlovek 9
+Title: Nejsmrtelnější úlovek 12
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 20:00
 End Time: 21:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /dokument/nejsmrtelnejsi-ulovek/
-Original Name: Deadliest Catch
+Link: /9778147-sk/dokument/nejsmrtelnejsi-ulovek/
+Original Name: Deadliest Catch: Tradition Of Superstition
 Year: 
-Description: Dokument USA. Jednou z nejsmrtelnějších prací na světě je lovit aljašské kraby. Rybáři musejí čelit zrádným vodám Beringova moře při hledání těchto vzácných královských krabů
-Score: 60%
+Description: Dokument. Jednou z nejsmrtelnějších prací na světě je lovit aljašské kraby. Rybáři musejí čelit zrádným vodám Beringova moře při hledání těchto vzácných královských krabů
+Score: 61%
 Genre: dokumentární
 ----------------------------------------
-Title: Záchrana statku 1
+Title: Záchrana statku 4
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 21:00
 End Time: 23:00
 Duration: 120 min
 Channel: Discovery Channel
-Link: /444889-sk/dokument/zachrana-statku/
-Original Name: Homestead Rescue: Fire & Gold
+Link: /172505-sk/dokument/zachrana-statku/
+Original Name: Homestead Rescue: House Of 30,000 Tires
 Year: 
-Description: Oheň a zlato. Dokument. Na Raneyovi čeká nepříjemný úkol: revize vadného elektrického obvodu a vybudování prvního hydroelektrického zařízení na řece Little Sustina
-Score: 57%
+Description: Dokument. Pro rodiny, které se stěhují zcela mimo civilizační sítě, je důležité získání nových zkušeností a dovedností. Aby zachránili své usedlosti, osloví odborníky na přežití, aby je připravili na nejhorší
+Score: 56%
 Genre: dokumentární
 ----------------------------------------
-Title: Na pokraji Aljašky 2
+Title: Aljaška: Poslední hranice 9
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 23:00
 End Time: 00:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /451833-sk/dokument/na-pokraji-aljasky/
-Original Name: Edge of Alaska: Last Days of Winter
-Year: 
-Description: Poslední zimní dny. Dokument. V aljašské divočině se ukrývá nejdrsnější americké město: McCarthy. 42 duší, které zde statečně žijí, musí čelit přírodním živlům, aby nepřišly o svůj průkopnický styl života
-Score: 60%
+Link: /15473375-sk/dokument/aljaska-posledni-hranice-2011/
+Original Name: Alaska: The Last Frontier: The Monster Catch
+Year: 2011
+Description: Obří úlovek. Dokumentární seriál USA (2011). Kilcherovi se pustí do svého prozatím největšího úkolu. A zpěvačka Jewel se vrací se svým synem Kasem. Jane se zatím snaží chytit svou doposud největší rybu
+Score: 63%
 Genre: dokumentární
 ----------------------------------------
-Title: Lovci odpadu: Restaurátoři 8
+Title: Lovci odpadu: Restaurátoři 3
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 00:00
 End Time: 01:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /306796-sk/dokument/lovci-odpadu-restauratori/
+Link: /227394-sk/dokument/lovci-odpadu-restauratori/
 Original Name: Salvage Hunters: The Restorers
 Year: 
-Description: Dokument VB. Drew požádá kováře Neva o renovaci větrolamu z 19. století. Craig restauruje otlučené barcelonské křeslo, zatímco Alex pracuje na kuchyňské komodě
+Description: Dokument VB. Francouzský leštič Alex má za úkol zrestaurovat obrovské hodiny. Ruth renovuje pár zlatých svícnů a Cliff pracuje na sto let staré nádobě
 Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Diesel Brothers: Pod kapotou 11
+Title: Naftové bratrstvo 15
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 01:00
-End Time: 01:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15162167-sk/dokument/diesel-brothers-pod-kapotou/
-Original Name: Brake Room: Capt. Sean Dwyer Vs RJ Anderson
-Year: 
-Description: Kapitán Sean Dwyer a RJ Anderson. Dokument. Mistra světa v off-road závodech RJ Anderson se utká s kapitánem ze seriálu Nebezpečný úlovek Seanem Dwyerem
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Diesel Brothers: Pod kapotou 12
-Day: Štvrtok
-Date: 16.10.2025
-Start Time: 01:30
 End Time: 02:00
-Duration: 30 min
+Duration: 60 min
 Channel: Discovery Channel
-Link: /15162171-sk/dokument/diesel-brothers-pod-kapotou/
-Original Name: Brake Room: Capt. Sean Dwyer Vs Wee Man
+Link: /15473381-sk/dokument/naftove-bratrstvo/
+Original Name: Diesel Brothers: Double Trouble
 Year: 
-Description: Kapitán Sean Dwyer versus Jason Acuna. Dokument. Kapitán Sean Dwyer ze seriálu „Nebezpečný úlovek" společně se skateboardistou a komikem Jasonem Acunou sleduje nejbláznivější videa ze světa motorů
+Description: Dvojité potíže. Dokument. Heavy D. zkusí šanci s jedinečnou dvojitou Corvettu, zatímco Muscle se ujme vedení u Denali pro svůj nejnovější dárek. Podaří se jim vše dokončit před aukcí Dieselu?
 Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Záchrana statku 1
+Title: Záchrana statku 4
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 02:00
 End Time: 04:00
 Duration: 120 min
 Channel: Discovery Channel
-Link: /444889-sk/dokument/zachrana-statku/
-Original Name: Homestead Rescue: Fire & Gold
+Link: /172505-sk/dokument/zachrana-statku/
+Original Name: Homestead Rescue: House Of 30,000 Tires
 Year: 
-Description: Oheň a zlato. Dokument. Na Raneyovi čeká nepříjemný úkol: revize vadného elektrického obvodu a vybudování prvního hydroelektrického zařízení na řece Little Sustina
-Score: 57%
+Description: Dokument. Pro rodiny, které se stěhují zcela mimo civilizační sítě, je důležité získání nových zkušeností a dovedností. Aby zachránili své usedlosti, osloví odborníky na přežití, aby je připravili na nejhorší
+Score: 56%
 Genre: dokumentární
 ----------------------------------------
-Title: Rození obchodníci 7
+Title: Rození obchodníci 10
 Day: Štvrtok
-Date: 16.10.2025
+Date: 06.11.2025
 Start Time: 04:00
 End Time: 04:50
 Duration: 50 min
 Channel: Discovery Channel
-Link: /dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: VW 181 Thing
+Link: /164518-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers
 Year: 
-Description: Dodávka Dodge A100. Dokument. Talentovaný mechanik Ant Anstead a prodejce automobilů Mike Brewer mají náročný úkol: najít a renovovat ikonické automobily, které hodlají následně prodávat ve své dílně v LA
-Score: 57%
+Description: FSM Syrena 105. Dokument. Mike se vydává do Polska koupit FSO Syrena. Mimo Polsko však toto auto v podstatě nikdo nezná. Podaří se dvojici auto prodat a ještě na tom vydělat?
+Score: 56%
 Genre: dokumentární
 ----------------------------------------
 Title: Lovci odpadu: Klasická auta 3
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 05:00
 End Time: 06:00
 Duration: 60 min
@@ -1524,25 +362,11 @@ Description: Dokument. Paul a Drew míří do Kentu podívat se na skvělý road
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Rození obchodníci 6
-Day: Piatok
-Date: 17.10.2025
-Start Time: 06:00
-End Time: 07:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /156340-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: G Wagen
-Year: 
-Description: Volkswagen Rabbit GTI. Dokument. Před talentovaným mechanikem Antem Ansteadem a prodejcem automobilů Mikem Brewerem stojí náročný úkol: najít a renovovat ikonické automobily a následně je prodávat ve své dílně
-Score: 57%
-Genre: dokumentární
-----------------------------------------
 Title: Rození obchodníci 9
 Day: Piatok
-Date: 17.10.2025
-Start Time: 07:00
-End Time: 08:00
+Date: 07.11.2025
+Start Time: 06:00
+End Time: 07:00
 Duration: 60 min
 Channel: Discovery Channel
 Link: /156342-sk/dokument/rozeni-obchodnici/
@@ -1552,79 +376,107 @@ Description: Chevrolet Corvette Stingray. Dokument. Mikovi se podaří sehnat am
 Score: 56%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak se to dělá 15
+Title: Rození obchodníci 4
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
+Start Time: 07:00
+End Time: 08:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /146426-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Renault Alpine
+Year: 
+Description: Dokument. Talentovaný mechanik Ant Anstead a prodejce automobilů Mike Brewer mají náročný úkol: najít a renovovat ikonické automobily, které hodlají následně prodávat ve své dílně v LA
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 5
+Day: Piatok
+Date: 07.11.2025
 Start Time: 08:00
 End Time: 08:30
 Duration: 30 min
 Channel: Discovery Channel
-Link: /211012-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Pasta Dies, Blueberries, Composting Toilets, And Surge Arresters
-Year: 1999
-Description: Barvy do těstovin, pěstování borůvek, toalety na kompostování a přepěťové ochrany. Dokumentární seriál Kan. (1999). Zjistěte, jak se vyrábějí barvy do těstovin, toalety na kompostování a přepěťová ochrana či pěstují borůvky
-Score: 56%
+Link: /156486-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Turf Grass/Beef Jerky/Bowling Pins
+Year: 
+Description: Pláště pro horská kola. Dokument. Podrobně se zaměříme na další všední předměty a ukážeme si, jak se vyrábějí. Jak se například zhotovují zahradní vysavače, konzervované maso a filetovací nože?
+Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak to dělají? 5
+Title: Jak to dělají? 20
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 08:30
 End Time: 09:00
 Duration: 30 min
 Channel: Discovery Channel
-Link: /245319-sk/dokument/jak-to-delaji-2006/
+Link: /205311-sk/dokument/jak-to-delaji-2006/
 Original Name: How Do They Do It?
 Year: 2006
-Description: Dokumentární seriál Kan./VB (2006). Blíže se seznámíte s inženýry a vizionářskými průmyslovými návrháři, kteří zodpovídají za výrobu a provoz celé škály obyčejných předmětů
+Description: Dokumentární seriál Kan./VB (2006). Jak se staví plavební komory na kanály, které umožňují nákladním člunům a lodím překonat výškové rozdíly? Jak se přidávají bubliny do oblíbeného thajského bublinkového čaje?
 Score: 60%
 Genre: dokumentární
 ----------------------------------------
-Title: Lovci odpadu 13
+Title: Lovci odpadu 1
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 09:00
 End Time: 10:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /210906-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters: Vintage Garage
-Year: 2011
-Description: Dílna s historií. Dokumentární seriál VB (2011). Drew na panství v Cornwallu potká aristokracii a narazí na úžasnou sbírku klasických automobilů. V Newarku odhalí hromadu smaltovaných cedulí ropných firem
-Score: 60%
+Link: /172483-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters
+Year: 
+Description: Dokument. Drew a Tee jsou na neuvěřitelném turné po Francii. V Normandii se Drew zamiluje do velkého zámku a na rozsáhlém veletrhu se starožitnostmi se ponoří do popkultury
+Score: 56%
 Genre: dokumentární
 ----------------------------------------
-Title: Souboj starožitníků 4
+Title: Lovci odpadu: Restaurátoři 1
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 10:00
 End Time: 11:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /9762849-sk/dokument/souboj-starozitniku/
-Original Name: The Great Antiques Challenge: Dining Table/Window Display
+Link: /187525-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
 Year: 
-Description: Jídelní stůl/Výkladní skříň. Dokument. Obchodníci hledají vzácný jídelní stůl a židle s koženou intarzií pro renovátora domů a barevnou výkladní skříň pro majitele obchodu
+Description: Dokument VB. Kovář Nev a vitrážista Gordon obnoví poškozenou gotickou lucernu. Ted pracuje na zrezivělém šlapacím letadle, zatímco Alex upravuje obrovský stůl
 Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Opravy farem 1
+Title: Lovci maličkých domů 10
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 11:00
-End Time: 12:00
-Duration: 60 min
+End Time: 11:30
+Duration: 30 min
 Channel: Discovery Channel
-Link: /13662095-sk/dokument/opravy-farem/
-Original Name: Farmhouse Fixer: Knight Moves
+Link: /13085207-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: From Empty Nest to Tiny House
 Year: 
-Description: Dokument. Jonathan Knight rád renovuje historické usedlosti v Nové Anglii. S pomocí své designérky Kristiny vdechuje těmto domům nový život
-Score: 59%
+Description: Z prázdného hnízda do maličkého domu. Dokument. Umělkyně z Chattanoogy má ráda malé prostory. Svou lásku si prověří bydlením v maličkém domě
+Score: 61%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 11
+Day: Piatok
+Date: 07.11.2025
+Start Time: 11:30
+End Time: 12:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13182799-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: World Traveler Goes Tiny
+Year: 
+Description: Cestovatelka v maličkém domě. Dokument. Cestovatelka po světě si chce zjednodušit život. Hledá proto maličký a pojízdný dům, který ji neuváže na jednom místě
+Score: 61%
 Genre: dokumentární
 ----------------------------------------
 Title: Rození obchodníci 7
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 12:00
 End Time: 13:00
 Duration: 60 min
@@ -1636,289 +488,247 @@ Description: Dodávka Dodge A100. Dokument. Talentovaný mechanik Ant Anstead a 
 Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Kindigova autodílna 7
+Title: Kindigova autodílna 10
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 13:00
 End Time: 14:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /12970917-sk/dokument/kindigova-autodilna/
-Original Name: Kindig Customs: Is There Anything Good On It?
+Link: /13169925-sk/dokument/kindigova-autodilna/
+Original Name: Kindig Customs: A Rusty Mess
 Year: 
-Description: Dokument. Dave Kindig staví jedinečná vozidla pro své náročné klienty. Pracuje na typech a modelech automobilů všech věkových kategorií, které od základu renovuje
-Score: 61%
+Description: Rezavý zmatek. Dokument. Do dílny přivezou rozbitý náklaďák a Dave ví, že tým bude mít co dělat. Pod vší tou rzí se však skrývá klenot
+Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Dvě turba 6
+Title: Dvě turba 1
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 14:00
 End Time: 15:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /14847313-sk/dokument/dve-turba/
-Original Name: Twin Turbos: Start Your Engines
+Link: /dokument/dve-turba/
+Original Name: Twin Turbos: Building A Future
 Year: 
-Description: Nastartujte motory. Dokument. Brad DeBerti, který má na kontu dvě velké výhry, byl nadějným závodníkem. Po vážné nehodě se však se svým otcem začal věnovat zakázkové výrobě osobních i nákladních automobilů
-Score: 55%
+Description: Budování budoucnosti. Dokument. Brad DeBerti, který má na kontu dvě velké výhry, byl nadějným závodníkem. Po vážné nehodě se však se svým otcem začal věnovat zakázkové výrobě osobních i nákladních automobilů
+Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Dílna Goblin Works Garage 3
+Title: Dílna Goblin Works Garage 6
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 15:00
 End Time: 16:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /14074717-sk/dokument/dilna-goblin-works-garage/
-Original Name: Goblin Works Garage: Slammed Land Rover
+Link: /14139955-sk/dokument/dilna-goblin-works-garage/
+Original Name: Goblin Works Garage: Datsun Street Racer
 Year: 
-Description: Land Rover s nízkým podvozkem. Dokument. Tým modernizuje ikonický model Land Rover Series II. Ant dostane zakázku na sestavení dráhového kola Kawasaki
+Description: Datsun na pouliční závody. Dokument. Hoši si seženou Datsun Z-car - vůz, který se jako jeden z prvních účastnil „rychlých a zběsilých" pouličních závodů. Jaký mají plán? Kompletní renovaci ve stylu dílny Goblin
 Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Nazí a vystrašení 3
+Title: Nazí a vystrašení 9
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 16:00
 End Time: 17:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /413241-sk/dokument/nazi-a-vystraseni/
-Original Name: Naked And Afraid: Forbidden Fruit
+Link: /567875-sk/dokument/nazi-a-vystraseni/
+Original Name: Naked And Afraid: Love At First Fight
 Year: 
-Description: Zakázané ovoce. Dokument. Brazilská savana ověří Garyho a Karriny dovednosti pro přežití. Již několik dnů trpí hladem a nezralé ovoce jednomu z nich způsobí vážné zdravotní problémy
+Description: Láska na první pohled. Dokument. Na břehu ostrova jezera Nicaragua čelí průvodkyně Leah a zálesák Wes žralokům bělavým a tarantulím. Jak to zvládnou?
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Ant Anstead, mistr mechanik 7
+Title: Shortyho vysněný obchod 2
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 17:00
-End Time: 17:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /428753-sk/dokument/ant-anstead-mistr-mechanik/
-Original Name: Ant Anstead Master Mechanic: The Real Deal
-Year: 
-Description: Dobrá dohoda. Dokument. Ant si odškrtává sedmý týden práce na Alfě a vydává se se svým týmem podívat na originální Alfu 158. Je jí fascinován, a dokonce se mu s ní povede udělat selfie
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Ant Anstead, mistr mechanik 8
-Day: Piatok
-Date: 17.10.2025
-Start Time: 17:30
 End Time: 18:00
-Duration: 30 min
+Duration: 60 min
 Channel: Discovery Channel
-Link: /428755-sk/dokument/ant-anstead-mistr-mechanik/
-Original Name: Ant Anstead Master Mechanic: O Motor Where At Thou
+Link: /9747391-sk/dokument/shortyho-vysneny-obchod/
+Original Name: Shorty’s Dream Shop: Two-Tone C10
 Year: 
-Description: Motore, kde jsi? Dokument. Antův motor pro Alfu 158 má stále problémy při chodu a Ant ztrácí trpělivost. Pracuje v brzká rána, pozdě v noci i o víkendech
+Description: Dvoubarevné C10. Dokument. Shorty se ujímá úkolu udělat z vietnamského veterána C10 z roku 1969 cool auto. Plánuje vůz vrátit do původní podoby s dvoubarevným lakem
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak to dělají? 10
+Title: Jak to dělají? 5
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 18:00
 End Time: 18:30
 Duration: 30 min
 Channel: Discovery Channel
-Link: /172594-sk/dokument/jak-to-delaji/
-Original Name: How Do They Do It?: Vanilla, Anchors
+Link: /172572-sk/dokument/jak-to-delaji/
+Original Name: How Do They Do It?: Caravans, Tuning Forks
 Year: 
-Description: Dokument. K výrobě mnoha předmětů běžných v moderní společnosti jsou používány sofistikované inženýrské procesy. Jak vypadají?
-Score: 58%
+Description: Dokument. K výrobě mnohých předmětů každodenního života jsou v moderní společnosti používány sofistikované inženýrské procesy. Jak vypadají?
+Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak se to dělá 6
+Title: Jak se to dělá 8
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 18:30
 End Time: 19:00
 Duration: 30 min
 Channel: Discovery Channel
-Link: /156482-sk/dokument/jak-se-to-dela-1999/
-Original Name: How It’s Made: Car Headlamps, Directional Drills, Pet Combs
-Year: 1999
-Description: Reflektory, směrové vrtačky, hřebeny pro zvířata a restaurované barevné sklo. Dokumentární seriál Kan. (1999). Uvidíte, jak se vyrábí přední reflektory, směrové vrtačky a hřebeny, a také jak se restauruje barevné sklo
+Link: /156453-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Prams, Factory-Built Homes, Wood Flutes, Bicycle Tyres
+Year: 
+Description: Kočárky, montované domy, dřevěné flétny a cyklistické pláště. Dokument. Podrobně se zaměříme na další předměty každodenní potřeby a ukážeme si, jak se vyrábějí hliníkové kánoe, dřevěné misky, dodávky pro vozíčkáře a marimby
 Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Rychle a hlasitě 8
+Title: Rychle a hlasitě 7
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 19:00
 End Time: 20:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /13983297-sk/dokument/rychle-a-hlasite/
-Original Name: Fast N’ Loud: Camaro Rising
+Link: /13903121-sk/dokument/rychle-a-hlasite/
+Original Name: Fast N’ Loud: Harley And Me
 Year: 
-Description: Parádní Camaro. Dokument. Po řadě náročných rekonstrukcí Richard udělá dobré gesto a pro Aarona a tým zakoupí Camaro, ročník 67, na podvozku K5. Zlepší to morálku?
-Score: 64%
+Description: Dokument. Richard Rawlings a Aaron Kaufmann hledají po zapadlých koutech Texasu a sousedních státech výjimečné kousky a zpustlé klasické vozy
+Score: 63%
 Genre: dokumentární
 ----------------------------------------
-Title: Vzteklí motoristé 9
+Title: Přistiženi při činu 3
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 20:00
 End Time: 20:30
 Duration: 30 min
 Channel: Discovery Channel
-Link: /15174339-sk/dokument/vztekli-motoriste/
-Original Name: Road Rage: Full Throttle
+Link: /8658935-sk/dokument/pristizeni-pri-cinu/
+Original Name: Caught! (Anomaly): Raids And Busts
 Year: 
-Description: Na plný plyn. Dokument. Cyklisté si poradí se vzteklými řidiči. Muž natočí dramatické chvíle na parkovišti v New Jersey. Rozzuřený řidič volá muži, který ho zablokoval
-Score: 61%
+Description: Zátahy a zatčení. Dokument. Nepolapitelní zloději se vyhýbají spravedlnosti, ale neúnavní policisté je stále sledují a zatýkají pašeráky, podvodníky nebo únosce, které zachytily kamery
+Score: 63%
 Genre: dokumentární
 ----------------------------------------
-Title: Vzteklí motoristé 10
+Title: Přistiženi při činu 4
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 20:30
 End Time: 21:00
 Duration: 30 min
 Channel: Discovery Channel
-Link: /15174343-sk/dokument/vztekli-motoriste/
-Original Name: Road Rage: Angry Asphalts
+Link: /8658939-sk/dokument/pristizeni-pri-cinu/
+Original Name: Caught! (Anomaly): Doorbell Camera Disasters
 Year: 
-Description: Zuřivost na asfaltu. Dokument. Motoristé se postaví vtipálkům. Rodina se brání muži, který má v ruce nůž. Na nemocničním parkovišti se poperou dvě ženy
-Score: 61%
+Description: Co vidí kamera u dveří. Dokument. Každý den se v USA dějí nesmyslné přestupky a přečiny, které zaznamenají miliony kamer, třeba krádeže věcí z předních verand před domy, různé drobné podvody i autonehody
+Score: 63%
 Genre: dokumentární
 ----------------------------------------
-Title: Hraniční kontrola: Itálie 5
+Title: Hraniční kontrola: Itálie 8
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 21:00
 End Time: 22:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /8644253-sk/dokument/hranicni-kontrola-italie/
+Link: /8647277-sk/dokument/hranicni-kontrola-italie/
 Original Name: Border Control Italia
 Year: 
 Description: Dokument. Seriál sleduje práci bezpečnostních a celních služeb na italských hranicích, které jsou neustále ohrožovány drogami, zbraněmi a podezřelými teroristy
-Score: 58%
+Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Osobní kamery pro policii 10
+Title: Honička ve vysoké rychlosti 3
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 22:00
 End Time: 23:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /9446465-sk/dokument/osobni-kamery-pro-policii/
-Original Name: Body Cam: Tunnel Vision
+Link: /9696957-sk/dokument/honicka-ve-vysoke-rychlosti/
+Original Name: High Speed Chase: School Bus Hijack
 Year: 
-Description: Dokument. Blízký a osobní pohled do předních linií policejní práce s využitím reálných záběrů z kamer na tělech policistů. Život na hlídce je čímkoliv, jen ne běžnou rutinou
-Score: 63%
+Description: Únos školního autobusu. Dokument. Běžná kontrola pro překročení rychlosti se změní v osobní záležitost, když policista jen tak tak unikne smrti. Muž s nožem v ruce drží ve školním autobusu tucet dětí jako rukojmí
+Score: 62%
 Genre: dokumentární
 ----------------------------------------
-Title: Na pokraji Aljašky 3
+Title: Aljaška: Poslední hranice 10
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 23:00
 End Time: 00:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /498497-sk/dokument/na-pokraji-aljasky/
-Original Name: Edge of Alaska: The Thaw
-Year: 
-Description: Obleva. Dokument. V aljašské divočině se ukrývá nejdrsnější americké město: McCarthy. 42 duší, které zde statečně žijí, musí čelit přírodním živlům, aby nepřišly o svůj průkopnický styl života
-Score: 60%
+Link: /15488535-sk/dokument/aljaska-posledni-hranice-2011/
+Original Name: Alaska: The Last Frontier: When Cows Attack
+Year: 2011
+Description: Krávy útočí. Dokumentární seriál USA (2011). Kilcherovi se pouští do několika velkých úkolů. Muži získají staré dřevo pro Shaneovu chatu, Eve učiní strašlivý objev a Atz Lee s Jane najdou stopy agresivního medvěda
+Score: 63%
 Genre: dokumentární
 ----------------------------------------
-Title: Lovci odpadu: Restaurátoři 9
+Title: Lovci odpadu: Restaurátoři 4
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 00:00
 End Time: 01:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /172493-sk/dokument/lovci-odpadu-restauratori/
+Link: /227396-sk/dokument/lovci-odpadu-restauratori/
 Original Name: Salvage Hunters: The Restorers
 Year: 
-Description: Dokument VB. Francouzský leštič Alex je nadšený z práce na 100 let starém stole. A konzervátorka papíru Ashleigh musí při práci na plesnivém plakátu dodržovat bezpečnostní opatření
+Description: Dokument VB. Pracovník s kovy Ted má za úkol znovu použít zrezivělé železniční návěstidlo. Alex restauruje bezhlavé zvíře z kolotoče, zatímco Craig opravuje lenošku
 Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Naftové bratrstvo 1
+Title: Naftové bratrstvo 16
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 01:00
-End Time: 02:00
-Duration: 60 min
+End Time: 03:00
+Duration: 120 min
 Channel: Discovery Channel
-Link: /13514699-sk/dokument/naftove-bratrstvo/
-Original Name: Diesel Brothers: Fly Like An Eagle
+Link: /15488541-sk/dokument/naftove-bratrstvo/
+Original Name: Diesel Brothers: Drop The Auction Hammer
 Year: 
-Description: Projet se v Eaglu. Dokument. Heavy D. a Diesel Dave najdou starý AMC Eagle z roku 1984, který Heavy D. plánuje předělat pro budoucí projekt na diesel. Také si připomenou své oblíbené sestavy
+Description: Klepnutí aukčního kladívka. Dokument. Den aukce je konečně tady a pánové prodávají šestnáct neuvěřitelných konstrukcí vozů. Je to nejhazardnější nabídka jejich kariéry. Podaří se jim překonat stanovené prodejní cíle?
 Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Vzteklí motoristé 9
+Title: Hraniční kontrola: Itálie 8
 Day: Piatok
-Date: 17.10.2025
-Start Time: 02:00
-End Time: 02:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15174339-sk/dokument/vztekli-motoriste/
-Original Name: Road Rage: Full Throttle
-Year: 
-Description: Na plný plyn. Dokument. Cyklisté si poradí se vzteklými řidiči. Muž natočí dramatické chvíle na parkovišti v New Jersey. Rozzuřený řidič volá muži, který ho zablokoval
-Score: 61%
-Genre: dokumentární
-----------------------------------------
-Title: Vzteklí motoristé 10
-Day: Piatok
-Date: 17.10.2025
-Start Time: 02:30
-End Time: 03:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /15174343-sk/dokument/vztekli-motoriste/
-Original Name: Road Rage: Angry Asphalts
-Year: 
-Description: Zuřivost na asfaltu. Dokument. Motoristé se postaví vtipálkům. Rodina se brání muži, který má v ruce nůž. Na nemocničním parkovišti se poperou dvě ženy
-Score: 61%
-Genre: dokumentární
-----------------------------------------
-Title: Hraniční kontrola: Itálie 5
-Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 03:00
 End Time: 04:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /8644253-sk/dokument/hranicni-kontrola-italie/
+Link: /8647277-sk/dokument/hranicni-kontrola-italie/
 Original Name: Border Control Italia
 Year: 
 Description: Dokument. Seriál sleduje práci bezpečnostních a celních služeb na italských hranicích, které jsou neustále ohrožovány drogami, zbraněmi a podezřelými teroristy
-Score: 58%
+Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Rození obchodníci 8
+Title: Rození obchodníci 11
 Day: Piatok
-Date: 17.10.2025
+Date: 07.11.2025
 Start Time: 04:00
 End Time: 04:50
 Duration: 50 min
 Channel: Discovery Channel
-Link: /146430-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: De Soto Firedome
+Link: /187510-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Fiat Panda 4x4
 Year: 
-Description: Ford Popular. Dokument. Mike se snaží sehnat otcovo oblíbené auto Ford Popular, které je známé svou proměnlivou kvalitou. Podaří se dvojici koupit takové, na kterém vydělají?
+Description: Lotus Elise. Dokument. Mike touží po Lotusu Elise, ale brzy zjistí, že je těžké vylepšit auto, které je už dokonalé. Pomůže mu Edd proměnit stroj v závodní špičku, aby na něm vydělali?
 Score: 56%
 Genre: dokumentární
 ----------------------------------------
 Title: Lovci odpadu: Klasická auta 4
 Day: Sobota
-Date: 18.10.2025
+Date: 08.11.2025
 Start Time: 05:00
 End Time: 06:00
 Duration: 60 min
@@ -1927,14 +737,42 @@ Link: /205300-sk/dokument/lovci-odpadu-klasicka-auta/
 Original Name: Salvage Hunters: Classic Cars: Ford Fiesta Supersport And Lotus Elise
 Year: 
 Description: Dokument. Pánové využijí šanci koupit vzácnou pickupovou verzi mini, ale rozhodování o tom, co s plátnem na zakrytí nákladu, způsobí určité kreativní rozdíly
-Score: 59%
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 10
+Day: Sobota
+Date: 08.11.2025
+Start Time: 06:00
+End Time: 06:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /146432-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Cufflinks/Blueberry Turnovers/Dashboards
+Year: 
+Description: Jíl, odpeckované sušené švestky, ostruhy. Dokument. Jak se vyrábí jíl, odpeckované sušené švestky, ostruhy a polyuretanové pneumatiky? Zaměřujeme se na předměty denní potřeby - a nabízíme odpovědi!
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 11
+Day: Sobota
+Date: 08.11.2025
+Start Time: 06:30
+End Time: 07:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /156344-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Wood Slat Baskets, Bells
+Year: 
+Description: Tasery, konzervované polévky, skokanská prkna. Dokument. Jak se vyrábějí tasery, konzervované polévky, skokanská prkna, brumle a ústní luky? Zaměřujeme se na předměty denní potřeby - a nabízíme odpovědi!
+Score: 57%
 Genre: dokumentární
 ----------------------------------------
 Title: Jak se to dělá 12
 Day: Sobota
-Date: 18.10.2025
-Start Time: 06:00
-End Time: 06:30
+Date: 08.11.2025
+Start Time: 07:00
+End Time: 07:30
 Duration: 30 min
 Channel: Discovery Channel
 Link: /156459-sk/dokument/jak-se-to-dela/
@@ -1946,9 +784,9 @@ Genre: dokumentární
 ----------------------------------------
 Title: Jak se to dělá 13
 Day: Sobota
-Date: 18.10.2025
-Start Time: 06:30
-End Time: 07:00
+Date: 08.11.2025
+Start Time: 07:30
+End Time: 08:00
 Duration: 30 min
 Channel: Discovery Channel
 Link: /187512-sk/dokument/jak-se-to-dela/
@@ -1958,11 +796,319 @@ Description: Psací pera Space Pen, korálová akvária, kovové rakve. Dokument
 Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Jak se to dělá 14
+Title: Americký chopper 8
 Day: Sobota
-Date: 18.10.2025
-Start Time: 07:00
-End Time: 07:30
+Date: 08.11.2025
+Start Time: 08:00
+End Time: 09:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /15498335-sk/dokument/americky-chopper/
+Original Name: American Chopper: Howe Caverns
+Year: 
+Description: Jeskyně Howe Caverns. Dokument. Tým dílny OCC vyráží prozkoumat jeskyně Howe Caverns. Paul Junior i nadále pracuje pro OCC jako konzultant a napadne ho nový projekt, který chce realizovat mimo dílnu OCC
+Score: 45%
+Genre: dokumentární
+----------------------------------------
+Title: Dálnice A2 12
+Day: Sobota
+Date: 08.11.2025
+Start Time: 09:00
+End Time: 10:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /14707399-sk/dokument/dalnice-a2/
+Original Name: The Autobahn A2
+Year: 
+Description: Dokument. Jedna z nejrušnějších, nejnebezpečnějších a nejvýznamnějších dálnic v Evropě. Mnozí lidé po ní jezdí z pracovních důvodů a druzí ji využívají k cestování po Evropě
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Dálnice A2 13
+Day: Sobota
+Date: 08.11.2025
+Start Time: 10:00
+End Time: 11:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /14804265-sk/dokument/dalnice-a2/
+Original Name: The Autobahn A2
+Year: 
+Description: Dokument. Jedna z nejrušnějších, nejnebezpečnějších a nejvýznamnějších dálnic v Evropě. Mnozí lidé po ní jezdí z pracovních důvodů a druzí ji využívají k cestování po Evropě
+Score: 63%
+Genre: dokumentární
+----------------------------------------
+Title: Servis Bad Chad Customs 1
+Day: Sobota
+Date: 08.11.2025
+Start Time: 11:00
+End Time: 12:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /13072243-sk/dokument/servis-bad-chad-customs/
+Original Name: Bad Chad Customs: They Call Me Bad Chad
+Year: 
+Description: Dokument. Chad Hiltz je šéfem dílny. Společně s týmem z Green Goblin Customs vyrábějí ze železného šrotu ze skládek špičková auta
+Score: 45%
+Genre: dokumentární
+----------------------------------------
+Title: Servis Bad Chad Customs 2
+Day: Sobota
+Date: 08.11.2025
+Start Time: 12:00
+End Time: 13:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /13169921-sk/dokument/servis-bad-chad-customs/
+Original Name: Bad Chad Customs: You Use What You Got
+Year: 
+Description: Dokument. Chad Hiltz je šéfem dílny. Společně s týmem z Green Goblin Customs vyrábějí ze železného šrotu ze skládek špičková auta
+Score: 45%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 16
+Day: Sobota
+Date: 08.11.2025
+Start Time: 13:00
+End Time: 14:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /187545-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Konzervátorka papíru Ashleigh má za úkol zrestaurovat plakát k filmu James Bond z roku 1967. A Drew požádá kovodělníka Teda o renovaci zvláštního globusu z tvrdého dřeva
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 17
+Day: Sobota
+Date: 08.11.2025
+Start Time: 14:00
+End Time: 15:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /193614-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Drew požádá Michaela a Marii, aby opravili vzácný automat ze Skotska. Navíc dostane čalouník Ray za úkol zachránit eduardovské nízké křeslo bez opěradel
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Napospas osudu s Edem Staffordem 1
+Day: Sobota
+Date: 08.11.2025
+Start Time: 15:00
+End Time: 16:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /dokument/napospas-osudu-s-edem-staffordem-2014/
+Original Name: Marooned with Ed Stafford: Borneo
+Year: 2014
+Description: Borneo. Docureality VB (2014). Ed Stafford zdolává džungle Bornea. Ocitl se zde naprosto sám a bez výbavy. Nemá k dispozici jídlo, vodu, dokonce ani nůž. Jak v tomto prostředí zvládne deset dní?
+Score: 71%
+Genre: dokumentární / reality
+----------------------------------------
+Title: Napospas osudu s Edem Staffordem 2
+Day: Sobota
+Date: 08.11.2025
+Start Time: 16:00
+End Time: 17:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /13487821-sk/dokument/napospas-osudu-s-edem-staffordem-2014/
+Original Name: Marooned with Ed Stafford: Romania
+Year: 2014
+Description: Rumunsko. Docureality VB (2014). Ed zůstal trčet v Karpatech. Ocitl se zde naprosto sám a bez výbavy. Nemá k dispozici jídlo, vodu, dokonce ani nůž. Jak v tomto prostředí zvládne deset dní?
+Score: 71%
+Genre: dokumentární / reality
+----------------------------------------
+Title: Zlatá horečka 10
+Day: Sobota
+Date: 08.11.2025
+Start Time: 17:00
+End Time: 18:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /269580-sk/dokument/zlata-horecka/
+Original Name: Gold Rush: The Vindication
+Year: 
+Description: Dokument. Zlatokopové na Yukonu využívají mimosezónní období k tomu, aby své aktivity posunuli na vyšší úroveň. Jejich přípravy určí průběh příští sezóny
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Zlatá horečka 11
+Day: Sobota
+Date: 08.11.2025
+Start Time: 18:00
+End Time: 19:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /342712-sk/dokument/zlata-horecka/
+Original Name: Gold Rush: Glory Hole On The Hill
+Year: 
+Description: Dokument. Zlatokopové na Yukonu využívají mimosezónní období k tomu, aby své aktivity posunuli na vyšší úroveň. Jejich přípravy určí průběh příští sezóny
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Podvodní války v Austrálii 3
+Day: Sobota
+Date: 08.11.2025
+Start Time: 19:00
+End Time: 20:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /15212959-sk/dokument/podvodni-valky-v-australii/
+Original Name: Dive Wars Australia
+Year: 
+Description: Dokument. Greg podnikne největší krok od doby, kdy ho před šesti měsíci napadl obrovský žralok bílý - poprvé se potápí v kleci pro pozorování žraloků
+Score: 45%
+Genre: dokumentární
+----------------------------------------
+Title: Výprava do neznáma 9
+Day: Sobota
+Date: 08.11.2025
+Start Time: 20:00
+End Time: 21:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /235219-sk/dokument/vyprava-do-neznama/
+Original Name: Expedition Unknown: Tracking Tasmania’s Tiger
+Year: 
+Description: Dokument. Josh Gates se zaměří na známé nevyřešené případy po celém světě. Než vyrazí, vyslechne klíčové očité svědky, aby zjistil, zda v případech došlo k nějakému posunu
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Setkání s mimozemšťany: Fakta, nebo fikce 1
+Day: Sobota
+Date: 08.11.2025
+Start Time: 21:00
+End Time: 22:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /dokument/setkani-s-mimozemstany-fakta-nebo-fikce/
+Original Name: Alien Encounters: Fact or Fiction: You Saw A UFO
+Year: 
+Description: Viděl jsi UFO. Dokument. Po smrti svého otce věří jeden farmář tomu, že viděl UFO. Jeden geolog objeví na místě pádu UFO v Roswellu trosky
+Score: 64%
+Genre: dokumentární
+----------------------------------------
+Title: Neobjasněná akta NASA 2
+Day: Sobota
+Date: 08.11.2025
+Start Time: 22:00
+End Time: 23:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /187623-sk/dokument/neobjasnena-akta-nasa/
+Original Name: NASA’s Unexplained Files: Rise Of The Planet Killer
+Year: 
+Description: Přísně tajná hrůza. Dokument. Snímky Merkuru ukazují obrovské útvary na povrchu podobné pavoukům. Jedná se o podivnou geologii anebo o něco mnohem hrozivějšího?
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Nazí a vystrašení 19
+Day: Sobota
+Date: 08.11.2025
+Start Time: 23:00
+End Time: 00:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /9498425-sk/dokument/nazi-a-vystraseni/
+Original Name: Naked And Afraid: Rise Above
+Year: 
+Description: S nadhledem. Dokument. Dva úplně cizí lidé, muž a žena, zůstanou bez pomoci a naprosto nazí trčet v nejextrémnějších prostředích naší planety
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Nazí a vystrašení 20
+Day: Sobota
+Date: 08.11.2025
+Start Time: 00:00
+End Time: 01:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /9510161-sk/dokument/nazi-a-vystraseni/
+Original Name: Naked And Afraid: The Danger Within
+Year: 
+Description: Nebezpečí uvnitř. Dokument. Nezdolnou matku dají dohromady se svérázným milovníkem pavouků. Ti dva se ocitnou v odlehlé oblasti Seminole Forest na Floridě, kde je ohrožují obrovští aligátoři a černí medvědi
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Království skládek 3
+Day: Sobota
+Date: 08.11.2025
+Start Time: 01:00
+End Time: 02:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /13327861-sk/dokument/kralovstvi-skladek/
+Original Name: Junkyard Empire: Build a Jeep, Crush a Car
+Year: 
+Description: Sestroj Jeep a rozmáčkni auto. Dokument. Andy přibírá stále více práce ve snaze rozšířit své podnikání, avšak už ji nezvládá. Musí se proto spolehnout na svůj tým ostřílených techniků, aby ho z průšvihu dostali
+Score: 55%
+Genre: dokumentární
+----------------------------------------
+Title: Výprava do neznáma 9
+Day: Sobota
+Date: 08.11.2025
+Start Time: 02:00
+End Time: 03:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /235219-sk/dokument/vyprava-do-neznama/
+Original Name: Expedition Unknown: Tracking Tasmania’s Tiger
+Year: 
+Description: Dokument. Josh Gates se zaměří na známé nevyřešené případy po celém světě. Než vyrazí, vyslechne klíčové očité svědky, aby zjistil, zda v případech došlo k nějakému posunu
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Setkání s mimozemšťany: Fakta, nebo fikce 1
+Day: Sobota
+Date: 08.11.2025
+Start Time: 03:00
+End Time: 04:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /dokument/setkani-s-mimozemstany-fakta-nebo-fikce/
+Original Name: Alien Encounters: Fact or Fiction: You Saw A UFO
+Year: 
+Description: Viděl jsi UFO. Dokument. Po smrti svého otce věří jeden farmář tomu, že viděl UFO. Jeden geolog objeví na místě pádu UFO v Roswellu trosky
+Score: 64%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu 1
+Day: Sobota
+Date: 08.11.2025
+Start Time: 04:00
+End Time: 04:50
+Duration: 50 min
+Channel: Discovery Channel
+Link: /172483-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters
+Year: 
+Description: Dokument. Drew a Tee jsou na neuvěřitelném turné po Francii. V Normandii se Drew zamiluje do velkého zámku a na rozsáhlém veletrhu se starožitnostmi se ponoří do popkultury
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu 2
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 05:00
+End Time: 06:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /172485-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters: France
+Year: 
+Description: Dokument. Drew a Tee jsou na turné po hrabstvích střední Anglie. Ve Walsallu mají nápad na výdělek, v Birminghamu najde Drew poklad a společně prozkoumají velký venkovský dům
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 14
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 06:00
+End Time: 06:30
 Duration: 30 min
 Channel: Discovery Channel
 Link: /193605-sk/dokument/jak-se-to-dela/
@@ -1973,332 +1119,24 @@ Score: 58%
 Genre: dokumentární
 ----------------------------------------
 Title: Jak se to dělá 15
-Day: Sobota
-Date: 18.10.2025
-Start Time: 07:30
-End Time: 08:00
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 06:30
+End Time: 07:00
 Duration: 30 min
 Channel: Discovery Channel
-Link: /193688-sk/dokument/jak-se-to-dela/
-Original Name: How It’s Made: Custom Shoe Trees, Clay Targets
-Year: 
-Description: Drtiče kamene, látková stínítka lamp, sypání na dorty, napařovací žehličky. Dokument. Podrobně prostudujeme další každodenní předměty. Dnes se dozvíme, jak se vyrábí drtiče kamene, látková stínítka na lampy, zdobení na dorty a napařovací žehličky
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Americký chopper 4
-Day: Sobota
-Date: 18.10.2025
-Start Time: 08:00
-End Time: 09:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /15187245-sk/dokument/americky-chopper/
-Original Name: American Chopper: Unique Machine Bike
-Year: 
-Description: Jedinečný kousek. Dokument. Paul Senior se během své cesty na Aljašku, kde se chce dozvědět více o jedné zajímavé motorce, setká se Sarah Palinovou. Z Aljašky se dále vypraví do Finska
-Score: 45%
-Genre: dokumentární
-----------------------------------------
-Title: Dálnice A2 6
-Day: Sobota
-Date: 18.10.2025
-Start Time: 09:00
-End Time: 10:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /14413075-sk/dokument/dalnice-a2/
-Original Name: The Autobahn A2
-Year: 
-Description: Dokument. Jedna z nejrušnějších, nejnebezpečnějších a nejvýznamnějších dálnic v Evropě. Mnozí lidé po ní jezdí z pracovních důvodů a druzí ji využívají k cestování po Evropě
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Dálnice A2 7
-Day: Sobota
-Date: 18.10.2025
-Start Time: 10:00
-End Time: 11:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /14514953-sk/dokument/dalnice-a2/
-Original Name: The Autobahn A2
-Year: 
-Description: Dokument. Jedna z nejrušnějších, nejnebezpečnějších a nejvýznamnějších dálnic v Evropě. Mnozí lidé po ní jezdí z pracovních důvodů a druzí ji využívají k cestování po Evropě
-Score: 63%
-Genre: dokumentární
-----------------------------------------
-Title: Oceloví kamarádi 1
-Day: Sobota
-Date: 18.10.2025
-Start Time: 11:00
-End Time: 12:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /dokument/ocelovi-kamaradi/
-Original Name: Steel Buddies
-Year: 
-Description: Dokument. Michael Manousakis s týmem Morlock Motors dokáže získat každé vozidlo, o které má zájem. Tento expert z Westerwaldu má za sebou působivou řadu vynikajících projektů po celém světě
-Score: 45%
-Genre: dokumentární
-----------------------------------------
-Title: Oceloví kamarádi 2
-Day: Sobota
-Date: 18.10.2025
-Start Time: 12:00
-End Time: 13:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /15187257-sk/dokument/ocelovi-kamaradi/
-Original Name: Steel Buddies
-Year: 
-Description: Dokument. Michael Manousakis s týmem Morlock Motors dokáže získat každé vozidlo, o které má zájem. Tento expert z Westerwaldu má za sebou působivou řadu vynikajících projektů po celém světě
-Score: 45%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu: Restaurátoři 10
-Day: Sobota
-Date: 18.10.2025
-Start Time: 13:00
-End Time: 14:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /172495-sk/dokument/lovci-odpadu-restauratori/
-Original Name: Salvage Hunters: The Restorers
-Year: 
-Description: Dokument VB. Čalouník Craig a kovář Nev promění objemné křeslo v něco umělečtějšího. Koželuh Martin zachraňuje piknikovou soupravu Asprey
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu: Restaurátoři 11
-Day: Sobota
-Date: 18.10.2025
-Start Time: 14:00
-End Time: 15:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /216491-sk/dokument/lovci-odpadu-restauratori/
-Original Name: Salvage Hunters: The Restorers
-Year: 
-Description: Dokument VB. Drew požádá Michaela a Marii, aby zrenovovali břichomluveckou panenku starou přes 100 let. Odbornice na osvětlení Jolene dostane za úkol oživit zaprášený lustr
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: 100 dní v divočině 2
-Day: Sobota
-Date: 18.10.2025
-Start Time: 15:00
-End Time: 16:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /14925333-sk/dokument/100-dni-v-divocine/
-Original Name: 100 Days Wild: Rogue Rage
-Year: 
-Description: Tvrdohlavec. Dokument. Andrew a Gerrid jsou nejen pod tlakem, aby chytili losa, musí také zápasit s Oliverovou tvrdohlavostí. Navíc Adam pracuje na různých stavebních projektech pro základní tábor
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: 100 dní v divočině 3
-Day: Sobota
-Date: 18.10.2025
-Start Time: 16:00
-End Time: 17:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /14936593-sk/dokument/100-dni-v-divocine/
-Original Name: 100 Days Wild: Under House Arrest
-Year: 
-Description: Domácí vězení. Dokument. Andrew a Gerrid soupeří s časem, aby dostali losa zpět do základního tábora. Navíc celá komunita pracuje společně na vybudování chýše goahti
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Zlatá horečka 4
-Day: Sobota
-Date: 18.10.2025
-Start Time: 17:00
-End Time: 18:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /11041085-sk/dokument/zlata-horecka/
-Original Name: Gold Rush: The Disappearing Pay Layer
-Year: 
-Description: Mizející ložisko. Dokument. Parker nečekaně ztratí v dlouhém řezu ložisko. Kevin se tvrdě snaží udržet své vybavení v chodu
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Zlatá horečka 5
-Day: Sobota
-Date: 18.10.2025
-Start Time: 18:00
-End Time: 19:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /11124371-sk/dokument/zlata-horecka/
-Original Name: Gold Rush: Up In Smoke
-Year: 
-Description: Dokument. Zlatokopové na Yukonu mají vše připraveno a doufají, že těžba zlata bude bohatá. Díky novým zlatokopům, novým záborům a novým strojům jsou sázky vyšší než kdy jindy!
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Podmořští lovci 3
-Day: Sobota
-Date: 18.10.2025
-Start Time: 19:00
-End Time: 20:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /13363293-sk/dokument/podmorsti-lovci/
-Original Name: Abalone Wars
-Year: 
-Description: Dokument. Na jihu Austrálie donutily divoké bouře lovce plžů ušní strávit týdny v přístavu. Jaká rizika podstoupí, aby splnili své kvóty, než skončí nepříznivá sezona?
-Score: 64%
-Genre: dokumentární
-----------------------------------------
-Title: Výprava do neznáma 6
-Day: Sobota
-Date: 18.10.2025
-Start Time: 20:00
-End Time: 21:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /180580-sk/dokument/vyprava-do-neznama/
-Original Name: Expedition Unknown: America’s Titanic
-Year: 
-Description: Vikingové v Americe. Dokument. Josh Gates sleduje expanzi Vikingů ze sopečné krajiny Islandu do Grónska, kde založili záhadnou osadu, a následně i do Severní Ameriky
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Expedice X 3
-Day: Sobota
-Date: 18.10.2025
-Start Time: 21:00
-End Time: 22:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /1038629-sk/dokument/expedice-x/
-Original Name: Expedition X: Ghosts In The Swamp
-Year: 
-Description: Duchové v bažinách. Dokument. Tým zkoumá bažinu v Texasu. Oblast je plná hadů, ale to, co Phila a Jess děsí, jsou záhadná světla, která po celá desetiletí straší místní obyvatele
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Neobjasněná akta NASA 4
-Day: Sobota
-Date: 18.10.2025
-Start Time: 22:00
-End Time: 23:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /193697-sk/dokument/neobjasnena-akta-nasa/
-Original Name: NASA’s Unexplained Files: The Earth Next Door
-Year: 
-Description: Thorovo kladivo. Dokument. Co jsou zač ty záhadné stopy na povrchu měsíce poblíž místa přistání Apolla? Znamená podivný předmět ve vesmíru zkázu pro posádku raketoplánu?
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Nazí a vystrašení 13
-Day: Sobota
-Date: 18.10.2025
-Start Time: 23:00
-End Time: 00:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /1258889-sk/dokument/nazi-a-vystraseni/
-Original Name: Naked And Afraid: Naked And Ghosted
-Year: 
-Description: Dokument. Ti nejlepší dostanou nejtěžší svůj dosavadní úkol v mexické džungli. Setkají se s prudkými lijáky, tajemnými zvuky a bouřemi s blesky!
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Nazí a vystrašení 14
-Day: Sobota
-Date: 18.10.2025
-Start Time: 00:00
-End Time: 01:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /dokument/nazi-a-vystraseni/
-Original Name: Naked And Afraid: Two is a Crowd
-Year: 
-Description: Dokument. Dva soutěžící musí přežít 21 dní bez jakéhokoliv jídla, vody, a dokonce i šatů na jednom z nejdrsnějších a nejodlehlejších míst na světě. Jak to zvládnou?
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu: Klasická auta 5
-Day: Sobota
-Date: 18.10.2025
-Start Time: 01:00
-End Time: 02:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /dokument/lovci-odpadu-klasicka-auta/
-Original Name: Salvage Hunters: Classic Cars: Lancia Montecarlo & Citroen 2CV
-Year: 
-Description: Dokument. Paul a Drew se pouštějí do své doposud největší přestavby, kabrioletu VW Beetle Karmann. Vůz je v děsivém stavu, ale Drew je odhodlán zachránit jej před šrotištěm
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Výprava do neznáma 6
-Day: Sobota
-Date: 18.10.2025
-Start Time: 02:00
-End Time: 03:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /180580-sk/dokument/vyprava-do-neznama/
-Original Name: Expedition Unknown: America’s Titanic
-Year: 
-Description: Vikingové v Americe. Dokument. Josh Gates sleduje expanzi Vikingů ze sopečné krajiny Islandu do Grónska, kde založili záhadnou osadu, a následně i do Severní Ameriky
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Expedice X 3
-Day: Sobota
-Date: 18.10.2025
-Start Time: 03:00
-End Time: 04:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /1038629-sk/dokument/expedice-x/
-Original Name: Expedition X: Ghosts In The Swamp
-Year: 
-Description: Duchové v bažinách. Dokument. Tým zkoumá bažinu v Texasu. Oblast je plná hadů, ale to, co Phila a Jess děsí, jsou záhadná světla, která po celá desetiletí straší místní obyvatele
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu 4
-Day: Sobota
-Date: 18.10.2025
-Start Time: 04:00
-End Time: 04:50
-Duration: 50 min
-Channel: Discovery Channel
-Link: /890221-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters
-Year: 2011
-Description: Dokumentární seriál VB (2011). Drew se vydává do kentského starožitnictví, které se specializuje na neobvyklé evropské kousky, a v jednom muzeu v jihozápadním Walesu obdivuje unikáty ze 40. let
-Score: 60%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu 5
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 05:00
-End Time: 06:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /897154-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters: Balbithan
-Year: 2011
-Description: Dokumentární seriál VB (2011). Drew se vydá na sever, kde bude v odlehlé části Skotska vyklízen dům, a navštíví historickou továrnu na příbory v Sheffieldu
-Score: 61%
+Link: /211012-sk/dokument/jak-se-to-dela-1999/
+Original Name: How It’s Made: Pasta Dies, Blueberries, Composting Toilets, And Surge Arresters
+Year: 1999
+Description: Barvy do těstovin, pěstování borůvek, toalety na kompostování a přepěťové ochrany. Dokumentární seriál Kan. (1999). Zjistěte, jak se vyrábějí barvy do těstovin, toalety na kompostování a přepěťová ochrana či pěstují borůvky
+Score: 56%
 Genre: dokumentární
 ----------------------------------------
 Title: Jak se to dělá 16
 Day: Nedeľa
-Date: 19.10.2025
-Start Time: 06:00
-End Time: 06:30
+Date: 09.11.2025
+Start Time: 07:00
+End Time: 07:30
 Duration: 30 min
 Channel: Discovery Channel
 Link: /146539-sk/dokument/jak-se-to-dela/
@@ -2310,65 +1148,457 @@ Genre: dokumentární
 ----------------------------------------
 Title: Jak se to dělá 17
 Day: Nedeľa
-Date: 19.10.2025
-Start Time: 06:30
-End Time: 07:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /146541-sk/dokument/jak-se-to-dela/
-Original Name: How It’s Made: Table Tennis Tables
-Year: 
-Description: Bezpečnostní dveře, rtěnka, umělé palmy, mosazné desky. Dokument. Podrobně prostudujeme další každodenní předměty. Dnes se dozvíme, jak se vyrábí bezpečnostní požární dveře, rtěnky, umělé palmy a mosazné plakety
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Jak se to dělá 18
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 07:00
-End Time: 07:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /146543-sk/dokument/jak-se-to-dela/
-Original Name: How It’s Made: Hand Forged Hammers
-Year: 
-Description: Uhlíkové vlákno, restaurování starožitných rámů, železniční vozy, ozdoby kapot. Dokument. Podrobně prostudujeme další každodenní předměty. Dnes se dozvíme, jak se vyrábí uhlíkové vlákno, železniční tahače a ornamenty na karoserie aut a jak se restaurují starožitné rámy
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Jak se to dělá 19
-Day: Nedeľa
-Date: 19.10.2025
+Date: 09.11.2025
 Start Time: 07:30
 End Time: 08:00
 Duration: 30 min
 Channel: Discovery Channel
-Link: /146545-sk/dokument/jak-se-to-dela/
-Original Name: How It’s Made: Guitar Pickups, Heated Furniture
-Year: 
-Description: Kozlíky a soupravy nářadí, ovocná zmrzlina, školní autobusy. Dokument. Podrobně prostudujeme další každodenní předměty. Dnes se dozvíme, jak se vyrábí kozy na řezání dřeva a sady nářadí, ovocná zmrzlina a školní autobusy
-Score: 57%
+Link: /211015-sk/dokument/jak-se-to-dela-1999/
+Original Name: How It’s Made: Cartridge Blades, Chocolate Banana Loaves
+Year: 1999
+Description: Náhradní hlavice do holicích strojků, banánové koláče s čokoládou. Dokumentární seriál Kan. (1999). Zjistěte, jak se vyrábějí náhradní hlavice do holicích strojků, banánové koláče s čokoládou, prodejní automaty a potápěčské počítače
+Score: 55%
 Genre: dokumentární
 ----------------------------------------
-Title: Rození obchodníci 6
+Title: Rození obchodníci 13
 Day: Nedeľa
-Date: 19.10.2025
+Date: 09.11.2025
 Start Time: 08:00
 End Time: 09:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /156340-sk/dokument/rozeni-obchodnici/
-Original Name: Wheeler Dealers: G Wagen
+Link: /227392-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Caterham 7
 Year: 
-Description: Volkswagen Rabbit GTI. Dokument. Před talentovaným mechanikem Antem Ansteadem a prodejcem automobilů Mikem Brewerem stojí náročný úkol: najít a renovovat ikonické automobily a následně je prodávat ve své dílně
+Description: Opel GT 1900 z roku 1969. Dokument. Mike a Ant vstoupí na evropský trh se sportovními vozy s Opelem GT z roku 1969. Má poškozenou karoserii, špatný předstih, nekvalitní brzdy a nefunkční světlomety
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 14
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 09:00
+End Time: 10:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /235215-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Ford Escort RS2000 Rally Car
+Year: 
+Description: Lancia Fulvia z roku 1972. Dokument. Mike narazí na vzácný závodní model Lancia Fulvia z roku 1972. Spolu s Antem musí opravit CV kloub, nefunkční topení, prasklou přístrojovou desku a ucpaný palivový systém
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 2
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 10:00
+End Time: 11:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /187527-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Francouzský leštič Alex si poradí se stolním fotbálkem, který je značně poničený počasím. Martin pracuje na kufru dostavníku, zatímco Craig renovuje skandinávskou židli
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 3
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 11:00
+End Time: 12:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /227394-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Francouzský leštič Alex má za úkol zrestaurovat obrovské hodiny. Ruth renovuje pár zlatých svícnů a Cliff pracuje na sto let staré nádobě
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Schováno v kůlnách: Klasická auta 4
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 12:00
+End Time: 13:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /10354089-sk/dokument/schovano-v-kulnach-klasicka-auta/
+Original Name: Shed And Buried: Classic Cars: Triumph Spitfire
+Year: 
+Description: Triumph Spitfire. Dokument. V Gloucestershiru si Henry and Fuzz vyberou rizikový Triumph Spitfire po nehodě. Půjde o jejich zatím největší renovaci. Zvládnou ji?
 Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Rození obchodníci 8
+Title: Schováno v kůlnách: Klasická auta 5
 Day: Nedeľa
-Date: 19.10.2025
+Date: 09.11.2025
+Start Time: 13:00
+End Time: 14:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /10433895-sk/dokument/schovano-v-kulnach-klasicka-auta/
+Original Name: Shed And Buried: Classic Cars: Hot Rod
+Year: 
+Description: Hot rod. Dokument. V Northamptonshiru najdou Henry a Fuzz různorodou směs britských a amerických vozů. Nakonec se zamilují do zakázkového Hot rodu
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Neuvěřitelné bazény 2
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 14:00
+End Time: 15:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /9124419-sk/dokument/neuveritelne-bazeny/
+Original Name: Insane Pools: Off the Deep End: Living Under the Sea
+Year: 
+Description: Podmořský život. Dokument. Lucas Congdon musí vytvořit venkovní bazén, v němž by mohla žít mořská panna. Bývalí klienti, kteří zbožňují oceán, požádají Lucase, aby jim předělal jejich malý bazén
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Neuvěřitelné bazény 3
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 15:00
+End Time: 16:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /9137459-sk/dokument/neuveritelne-bazeny/
+Original Name: Insane Pools: Off the Deep End: Waterpark Wonderland
+Year: 
+Description: Úžasný akvapark. Dokument. Génius v oblasti bazénů Lucas přeměňuje zanedbané zahrady na úžasné akvaparky! Výsledkem jeho nejlepší rekonstrukce je zóna zábavy pro celou rodinu
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Opravy farem 3
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 16:00
+End Time: 17:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /13267177-sk/dokument/opravy-farem/
+Original Name: Farmhouse Fixer: Third Generation Renovation
+Year: 
+Description: Renovace třetí generace. Dokument. Historický dům z roku 1873 se promění v moderní domov pro mladou rodinu. Jon Knight a Kristina Crestin poskytnou této pětičlenné rodině domov s veselými barvami, a dokonce i úlem
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Přeprodej rodinných vozů 6
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 17:00
+End Time: 18:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /dokument/preprodej-rodinnych-vozu/
+Original Name: Flippin’ RVs: Tent Trailer Gets Intense
+Year: 
+Description: Stanový přívěs. Dokument. Justin a Anna obnovují pro syna starobylý stanový přívěs Higgins a až bude hotový, plánují jej vzít na výlet. Mezitím Annina kamarádka zdědí sešlý Airstream a chce se jej zbavit
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 6
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 18:00
+End Time: 18:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /12980361-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Fresh Start, Tiny Space
+Year: 
+Description: Nový začátek v maličkém místě. Dokument. Nedávno rozvedená kupující hledá maličký dům pro svůj nový začátek. S rozpočtem pouhých 15 tisíc dolarů to však může být náročnější, než si myslela
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 7
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 18:30
+End Time: 19:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13085195-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: The Quest For A Micro Man Cave
+Year: 
+Description: Hledá se minidoupě pro pány. Dokument. Mladý kupec vybírá svůj první dům. Hledá minidoupě pro pány s minimálními nároky na údržbu a s docházkovou vzdáleností do práce
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Renovace nemožná 6
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 19:00
+End Time: 20:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /10424693-sk/dokument/renovace-nemozna/
+Original Name: Renovation Impossible: Stuck In 1992
+Year: 
+Description: Dům uvízlý v roce 1992. Dokument. Manželé si nejsou jisti, jak vnést nový život do zastaralého domu, který žena zdědila po své matce. Russell a jeho tým nemovitost modernizují
+Score: 45%
+Genre: dokumentární
+----------------------------------------
+Title: Zvířata na drogách 3
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 20:00
+End Time: 21:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /15508305-sk/dokument/zvirata-na-drogach/
+Original Name: Animals On Drugs: Cocaine Hippos
+Year: 
+Description: Hroši na kokainu. Dokument. Hroši z resortu kokainového bosse ohrožují kolumbijskou divokou zvěř. Biologa Forresta Galanteho to přimělo k odvážnému plánu, jak je zastavit
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Pátrání po Escobarových milionech 5
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 21:00
+End Time: 22:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /758381-sk/dokument/patrani-po-escobarovych-milionech/
+Original Name: Finding Escobar’s Millions: The Good Life
+Year: 
+Description: Krásný život. Dokument. Doug a Ben prohledali všechna možná místa v Medellinu, aniž by něco nenalezli, proto se rozhodnou přesunout do oblasti, kde Pablo údajně vlastnil domy poblíž pobřeží Karibiku
+Score: 61%
+Genre: dokumentární
+----------------------------------------
+Title: Pátrání po Escobarových milionech 6
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 22:00
+End Time: 23:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /dokument/patrani-po-escobarovych-milionech/
+Original Name: Finding Escobar’s Millions: The X
+Year: 
+Description: Křížek. Dokument. Doug a Ben jsou nasměrováni k úkrytu v kopcích nad Gachovým rodným městem. Přiblížili se k pokladu anebo opustí Kolumbii s prázdnýma rukama?
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Hraniční kontrola: Švédsko 1
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 23:00
+End Time: 00:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /8657763-sk/dokument/hranicni-kontrola-svedsko/
+Original Name: Border Control Sweden: A Car Full of Alcohol
+Year: 
+Description: Auto plné alkoholu. Dokument. Muž se pokusí přes letiště Arlanda propašovat do ciziny 30 milionů v hotovosti. Na hranici ve Skane je zastaveno auto plné alkoholu
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Hraniční kontrola: Itálie 4
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 00:00
+End Time: 01:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /9594245-sk/dokument/hranicni-kontrola-italie/
+Original Name: Border Control Italia
+Year: 
+Description: Dokument. Seriál sleduje práci bezpečnostních a celních služeb na italských hranicích, které jsou neustále ohrožovány drogami, zbraněmi a podezřelými teroristy
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Zlatá horečka 9
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 01:00
+End Time: 02:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /216504-sk/dokument/zlata-horecka/
+Original Name: Gold Rush: Pivot!
+Year: 
+Description: Dokument. Zlatokopové jsou zpět na Yukonu a mají vše připraveno, aby se znovu pokusili stát se bohatými. Noví kopáči, nová území a nové stroje a sázky jsou vyšší než kdy dříve!
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Zlatá horečka 10
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 02:00
+End Time: 03:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /269580-sk/dokument/zlata-horecka/
+Original Name: Gold Rush: The Vindication
+Year: 
+Description: Dokument. Zlatokopové na Yukonu využívají mimosezónní období k tomu, aby své aktivity posunuli na vyšší úroveň. Jejich přípravy určí průběh příští sezóny
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Zvířata na drogách 3
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 03:00
+End Time: 04:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /15508305-sk/dokument/zvirata-na-drogach/
+Original Name: Animals On Drugs: Cocaine Hippos
+Year: 
+Description: Hroši na kokainu. Dokument. Hroši z resortu kokainového bosse ohrožují kolumbijskou divokou zvěř. Biologa Forresta Galanteho to přimělo k odvážnému plánu, jak je zastavit
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu 3
+Day: Nedeľa
+Date: 09.11.2025
+Start Time: 04:00
+End Time: 04:50
+Duration: 50 min
+Channel: Discovery Channel
+Link: /216483-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters: Unusual Objects
+Year: 
+Description: Dokument. Lovec pokladů moderní doby, Drew Pritchard, cestuje po celé Velké Británii a hledá podivné a zajímavé předměty. Čím větší hora pokladů, tím šťastnější je
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu 4
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 05:00
+End Time: 06:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /216485-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters: Right Price
+Year: 
+Description: Dokument. Lovec pokladů moderní doby, Drew Pritchard, cestuje po celé Velké Británii a hledá podivné a zajímavé předměty. Čím větší hora pokladů, tím šťastnější je
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 10
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 06:00
+End Time: 07:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /164518-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers
+Year: 
+Description: FSM Syrena 105. Dokument. Mike se vydává do Polska koupit FSO Syrena. Mimo Polsko však toto auto v podstatě nikdo nezná. Podaří se dvojici auto prodat a ještě na tom vydělat?
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 5
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 07:00
+End Time: 08:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /146428-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Porsche 914
+Year: 
+Description: Alfa Romeo 164L z roku 1991. Dokument. Mike vystopuje vzácné Alfa Romeo 164L z roku 1991. Antovi se líbí, ale čeká ho spousta práce, protože bezchybná karoserie skrývá netěsnící motor
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 6
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 08:00
+End Time: 08:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /146567-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Multi-Tools/Jojoba Oil/Marionettes
+Year: 
+Description: Hedvábný papír na ubrousky, přívěsy, pantofle a motocyklové helmy. Dokument. Podíváte se, jak se vyrábí hedvábný papír na ubrousky, přívěsy, pantofle či motocyklové helmy
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Jak to dělají? 1
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 08:30
+End Time: 09:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /216566-sk/dokument/jak-to-delaji/
+Original Name: How Do They Do It?: Opal/Stunt Planes/Nougat
+Year: 
+Description: Dokument. Uvidíte, jak těžařské společnosti ve Vancouveru získávají ty nejvzácnější stromy a jak se z obyčejné hlíny stávají složitě vzorované kachle ve španělské dílně
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu 2
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 09:00
 End Time: 10:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /172485-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters: France
+Year: 
+Description: Dokument. Drew a Tee jsou na turné po hrabstvích střední Anglie. Ve Walsallu mají nápad na výdělek, v Birminghamu najde Drew poklad a společně prozkoumají velký venkovský dům
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 2
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 10:00
+End Time: 11:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /187527-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Francouzský leštič Alex si poradí se stolním fotbálkem, který je značně poničený počasím. Martin pracuje na kufru dostavníku, zatímco Craig renovuje skandinávskou židli
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 12
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 11:00
+End Time: 11:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13182803-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Building A Tiny Bachelor Pad
+Year: 
+Description: Výstavba maličkého domu. Dokument. Cestovatelský fotograf si hodlá postavit maličký dům v hodnotě do 25 tisíc dolarů. Vyrazí na prohlídku tří modelových domů, aby se rozhodl pro design jednoho z nich
+Score: 61%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 13
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 11:30
+End Time: 12:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13182807-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Florida Family Goes Tiny
+Year: 
+Description: Rodina z Floridy vybírá maličký dům. Dokument. Pár se rozhodne přestěhovat do menšího domu, který si mohou dovolit. Vybírají maličký dům, který by pojal jejich rozrůstající se rodinu
+Score: 61%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 8
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 12:00
+End Time: 13:00
 Duration: 60 min
 Channel: Discovery Channel
 Link: /146430-sk/dokument/rozeni-obchodnici/
@@ -2378,207 +1608,487 @@ Description: Ford Popular. Dokument. Mike se snaží sehnat otcovo oblíbené au
 Score: 56%
 Genre: dokumentární
 ----------------------------------------
-Title: Lovci odpadu: Restaurátoři 16
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 10:00
-End Time: 11:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /187545-sk/dokument/lovci-odpadu-restauratori/
-Original Name: Salvage Hunters: The Restorers
-Year: 
-Description: Dokument VB. Konzervátorka papíru Ashleigh má za úkol zrestaurovat plakát k filmu James Bond z roku 1967. A Drew požádá kovodělníka Teda o renovaci zvláštního globusu z tvrdého dřeva
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Lovci odpadu: Restaurátoři 17
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 11:00
-End Time: 12:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /193614-sk/dokument/lovci-odpadu-restauratori/
-Original Name: Salvage Hunters: The Restorers
-Year: 
-Description: Dokument VB. Drew požádá Michaela a Marii, aby opravili vzácný automat ze Skotska. Navíc dostane čalouník Ray za úkol zachránit eduardovské nízké křeslo bez opěradel
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Bitvy o zavazadla 8
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 12:00
-End Time: 12:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /245212-sk/dokument/bitvy-o-zavazadla/
-Original Name: Baggage Battles: Guns a-Blazin’
-Year: 
-Description: Pistolnický souboj. Dokument. Soupeři o zavazadla vyrazí na kovbojskou aukci do Kalifornie, kde soupeří o předměty z dob legendárního Buffalo Billa a cirkusů Barnum & Bailey
-Score: 57%
-Genre: dokumentární
-----------------------------------------
-Title: Bitvy o zavazadla 9
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 12:30
-End Time: 13:00
-Duration: 30 min
-Channel: Discovery Channel
-Link: /254255-sk/dokument/bitvy-o-zavazadla/
-Original Name: Baggage Battles: Platinum Hits
-Year: 
-Description: Dokument. Soupeři o zavazadla vyrazí na aukci hudebních ikon do New Yorku, kde narazí na zlatý disk za album Temná strana Měsíce skupiny Pink Floyd a fotografii nahé Madonny
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Bitvy o zavazadla 10
-Day: Nedeľa
-Date: 19.10.2025
+Title: Podvodní války v Austrálii 4
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 13:00
-End Time: 13:30
-Duration: 30 min
-Channel: Discovery Channel
-Link: /306798-sk/dokument/bitvy-o-zavazadla/
-Original Name: Baggage Battles: Bunny Money
-Year: 
-Description: Dokument. Soupeři o zavazadla míří na aukci do Denveru, kde si to rozdají o předložku ze zebří kůže. Rovněž mají zájem o zabalené zboží. Bude však stát za to?
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Bitvy o zavazadla 11
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 13:30
 End Time: 14:00
-Duration: 30 min
+Duration: 60 min
 Channel: Discovery Channel
-Link: /146451-sk/dokument/bitvy-o-zavazadla/
-Original Name: Baggage Battles: World War Score
+Link: /15519079-sk/dokument/podvodni-valky-v-australii/
+Original Name: Dive Wars Australia: The Final Frontier
 Year: 
-Description: Oko za oko. Dokument. Soupeři o zavazadla jsou v Torontu na jedné z největších aukcí nákladů a zavazadel v Kanadě. Billy v získaných zavazadlech objeví jedny z nejvíce šokujících předmětů
-Score: 58%
+Description: Konečná hranice. Dokument. Divoké ušně v některých částech světa zcela vyhynuly. Ochrana této lahůdky i živobytí budoucích generací posádek je nesmírně důležitá
+Score: 45%
 Genre: dokumentární
 ----------------------------------------
-Title: Odborníci na domy v korunách stromů 7
-Day: Nedeľa
-Date: 19.10.2025
+Title: Nejsmrtelnější úlovek 1
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 14:00
-End Time: 15:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /492732-sk/dokument/odbornici-na-domy-v-korunach-stromu/
-Original Name: Treehouse Masters: Record High Recording Studio
-Year: 
-Description: Nahrávací studio v rekordní výšce. Dokument. Pete staví supermoderní nahrávací studio na stromech. Po jeho dokončení v něm hudebník a superhvězda CeeLo Green nahraje zbrusu nový zvukový záznam
-Score: 58%
-Genre: dokumentární
-----------------------------------------
-Title: Odborníci na domy v korunách stromů 10
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 15:00
 End Time: 16:00
-Duration: 60 min
+Duration: 120 min
 Channel: Discovery Channel
-Link: /dokument/odbornici-na-domy-v-korunach-stromu/
-Original Name: Treehouse Masters: Scottish Sky Garden
+Link: /8981383-sk/dokument/nejsmrtelnejsi-ulovek/
+Original Name: Deadliest Catch: Get ’Em Back Safe!
 Year: 
-Description: Skotská zahrada ve větvích. Dokument. Tým staví skotskou chalupu z dubu bahenního a Pete zhotovuje svůj první visutý most, který spojuje majitelův dům přímo s jeho rájem ve větvích stromů
-Score: 61%
+Description: V pořádku se vraťte! Dokument. Flotila se připravuje k vyplutí a na lodi Northwestern ještě probíhají důležité opravy. Na Wizardu zaškolují dva nové muže a Johnathanův syn se přidá k posádce lodi Time Bandit
+Score: 60%
 Genre: dokumentární
 ----------------------------------------
-Title: Opravy farem 4
-Day: Nedeľa
-Date: 19.10.2025
+Title: Nazí a vystrašení 11
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 16:00
 End Time: 17:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /13363297-sk/dokument/opravy-farem/
-Original Name: Farmhouse Fixer: A Farmhouse for a Chef
+Link: /735374-sk/dokument/nazi-a-vystraseni/
+Original Name: Naked And Afraid: Trouble In Paradise
 Year: 
-Description: Farma pro šéfkuchaře. Dokument. Zastaralý statek je přeměněn na funkční rodinný dům. Jon Knight a Kristina Crestin vytvoří kuchyň vhodnou pro šéfkuchaře, útulnou a tradiční novoanglickou rodinnou místnost
+Description: Potíže v ráji. Dokument. Riley a Kyle proniknou hlouběji do honduraské džungle. Přežijí 21 dní v oblasti s přívalovými povodněmi, silnými větrnými bouřemi a nízkými teplotami?
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Přeprodej rodinných vozů 3
-Day: Nedeľa
-Date: 19.10.2025
+Title: Shortyho vysněný obchod 3
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 17:00
 End Time: 18:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /15205073-sk/dokument/preprodej-rodinnych-vozu/
-Original Name: Flippin’ RVs: Tiny Trailer Trouble
+Link: /9841089-sk/dokument/shortyho-vysneny-obchod/
+Original Name: Shorty’s Dream Shop: White Lightning Cutlass
 Year: 
-Description: Problémy s malým přívěsem. Dokument. Justin a Anna mají plné ruce práce s renovací přívěsu Santa Fe z roku 1956 do parku starobylých rodinných vozů, který však vyžaduje mnohem více oprav, než se zdálo
-Score: 57%
+Description: Bílý blesk Cutlass. Dokument. Cutlass z roku 1971 patří do své doby, a tak je lépe ponechat jeho provedení ve stylu 70. let. Shorty a tým z auta vyřadí všechny zbytečnosti a posílí jeho výkon
+Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Lovci maličkých domů 5
-Day: Nedeľa
-Date: 19.10.2025
+Title: Jak to dělají? 6
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 18:00
 End Time: 18:30
 Duration: 30 min
 Channel: Discovery Channel
-Link: /12885475-sk/dokument/lovci-malickych-domu/
-Original Name: Tiny House Hunters: Tiny And Ready To Roll
+Link: /222121-sk/dokument/jak-to-delaji/
+Original Name: How Do They Do It?: Vinyl Records, Bumper Cars
 Year: 
-Description: Jednodušší život v maličkém domě. Dokument. Hasička Nicki si chce zjednodušit život a koupit si menší domek. Hledá nemovitost, jejíž velikost by byla pouhým zlomkem velikosti jejího současného bydliště
-Score: 60%
+Description: Dokument. Jak se staví výkonné parní válce? Jak se peče chleba v konzervě? Jak se vyrábí mobilní telefon s přesností švýcarských hodinek?
+Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Lovci maličkých domů 1
-Day: Nedeľa
-Date: 19.10.2025
+Title: Jak se to dělá 9
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 18:30
 End Time: 19:00
 Duration: 30 min
 Channel: Discovery Channel
-Link: /dokument/lovci-malickych-domu/
-Original Name: Tiny House Hunters: Bungalow In A Box
+Link: /156455-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Thinning Shears, Wagon Wheels
 Year: 
-Description: Bungalov v krabici. Dokument. Novomanželé Adam a Karen už mají dost městského života. Vymění proto byt v Jersey City za malý domek s velkým pozemkem na samotě v přírodě
-Score: 60%
+Description: Efilační nůžky, kola vagonu, pečivo do toustovačů a houslové smyčce. Dokument. Podrobně se zaměříme na další předměty každodenní potřeby a ukážeme si, jak se vyrábějí sedadla do závodních aut v sérii IndyCar, papírové květiny a rezervní generátory
+Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Renovace nemožná 3
-Day: Nedeľa
-Date: 19.10.2025
+Title: Rychle a hlasitě 8
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 19:00
 End Time: 20:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /10246255-sk/dokument/renovace-nemozna/
-Original Name: Renovation Impossible: Burning Eyes, Busted Budgets
+Link: /13983297-sk/dokument/rychle-a-hlasite/
+Original Name: Fast N’ Loud: Camaro Rising
 Year: 
-Description: Oči pro pláč, rozpočet v troskách. Dokument. Russell navštíví umělecky založený pár. Kvůli velkým problémům se základy se renovace jejich stísněného a zastaralého domu zastavila
-Score: 45%
+Description: Parádní Camaro. Dokument. Po řadě náročných rekonstrukcí Richard udělá dobré gesto a pro Aarona a tým zakoupí Camaro, ročník 67, na podvozku K5. Zlepší to morálku?
+Score: 64%
 Genre: dokumentární
 ----------------------------------------
-Title: V epicentru bouře 5
-Day: Nedeľa
-Date: 19.10.2025
+Title: Ed Stafford: První z kola ven 5
+Day: Pondelok
+Date: 10.11.2025
 Start Time: 20:00
 End Time: 21:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /9526611-sk/dokument/v-epicentru-boure/
-Original Name: In The Eye Of The Storm: Snowmageddon
+Link: /1972025-sk/dokument/ed-stafford-prvni-z-kola-ven/
+Original Name: Ed Stafford: First Man Out: Palau
 Year: 
-Description: Dokument. Poutavé záběry zachycují epicentra šokujících přírodních katastrof - od tornád po požáry - v reálném čase a jako nikdy předtím
+Description: Palau. Dokument. Ed se utká s expertem na primitivní dovednosti Catem Bigneym v závodu napříč nebezpečným ostrovem Palau v Jižním Pacifiku, kde se to jen hemží žraloky a krokodýly
+Score: 63%
+Genre: dokumentární
+----------------------------------------
+Title: Nazí a vystrašení: Apokalypsa 5
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 21:00
+End Time: 23:00
+Duration: 120 min
+Channel: Discovery Channel
+Link: /15519097-sk/dokument/nazi-a-vystraseni-apokalypsa/
+Original Name: Naked And Afraid Apocalypse: Triple Threats
+Year: 
+Description: Trojitá hrozba. Dokument. Wes hledá cestu ven, sledován černými mambami, lvy a krokodýly. Tealův luk má velký úspěch. Joe sestaví alarm z nalezených drátů a nábojnic
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Aljaška: Poslední hranice 11
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 23:00
+End Time: 00:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /15519101-sk/dokument/aljaska-posledni-hranice-2011/
+Original Name: Alaska: The Last Frontier: Chopper Rescue
+Year: 2011
+Description: Záchrana vrtulníkem. Dokumentární seriál USA (2011). Kilcherovi zapojí do důležitého úkolu i helikoptéru. A Atz Lee pokračuje ve stavbě chaty sám a napětí mezi ním a Jane přetrvává
+Score: 63%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 5
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 00:00
+End Time: 01:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /227398-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Kovodělník Ted renovuje pařížské pouliční osvětlení z 19. století. Preparátor Chris navíc zrestauruje a vystaví psohlava obecného v krásné vitríně
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Naftové bratrstvo 1
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 01:00
+End Time: 02:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /13514699-sk/dokument/naftove-bratrstvo/
+Original Name: Diesel Brothers: Fly Like An Eagle
+Year: 
+Description: Projet se v Eaglu. Dokument. Heavy D. a Diesel Dave najdou starý AMC Eagle z roku 1984, který Heavy D. plánuje předělat pro budoucí projekt na diesel. Také si připomenou své oblíbené sestavy
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Nazí a vystrašení: Apokalypsa 5
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 02:00
+End Time: 04:00
+Duration: 120 min
+Channel: Discovery Channel
+Link: /15519097-sk/dokument/nazi-a-vystraseni-apokalypsa/
+Original Name: Naked And Afraid Apocalypse: Triple Threats
+Year: 
+Description: Trojitá hrozba. Dokument. Wes hledá cestu ven, sledován černými mambami, lvy a krokodýly. Tealův luk má velký úspěch. Joe sestaví alarm z nalezených drátů a nábojnic
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 12
+Day: Pondelok
+Date: 10.11.2025
+Start Time: 04:00
+End Time: 04:50
+Duration: 50 min
+Channel: Discovery Channel
+Link: /193581-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Alfa Romeo Alfasud
+Year: 
+Description: Cadillac Coupe De Ville. Dokument. Mike našel klasický Cadillac Coupe, který není skoro vůbec zrezivělý. Interiér už však v tak dobrém stavu není. Promění Edd toto ošklivé káčátko v krásnou labuť?
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Klasická auta 5
+Day: Utorok
+Date: 11.11.2025
+Start Time: 05:00
+End Time: 06:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /dokument/lovci-odpadu-klasicka-auta/
+Original Name: Salvage Hunters: Classic Cars: Lancia Montecarlo & Citroen 2CV
+Year: 
+Description: Dokument. Paul a Drew se pouštějí do své doposud největší přestavby, kabrioletu VW Beetle Karmann. Vůz je v děsivém stavu, ale Drew je odhodlán zachránit jej před šrotištěm
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 11
+Day: Utorok
+Date: 11.11.2025
+Start Time: 06:00
+End Time: 07:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /187510-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Fiat Panda 4x4
+Year: 
+Description: Lotus Elise. Dokument. Mike touží po Lotusu Elise, ale brzy zjistí, že je těžké vylepšit auto, které je už dokonalé. Pomůže mu Edd proměnit stroj v závodní špičku, aby na něm vydělali?
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 6
+Day: Utorok
+Date: 11.11.2025
+Start Time: 07:00
+End Time: 08:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /156340-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: G Wagen
+Year: 
+Description: Volkswagen Rabbit GTI. Dokument. Před talentovaným mechanikem Antem Ansteadem a prodejcem automobilů Mikem Brewerem stojí náročný úkol: najít a renovovat ikonické automobily a následně je prodávat ve své dílně
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 7
+Day: Utorok
+Date: 11.11.2025
+Start Time: 08:00
+End Time: 08:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /146569-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Fish Decoys/Film Digitization
+Year: 
+Description: U-zámky, vigvamy, francouzské rohlíky a zavazadla na kolečkách. Dokument. Podíváte se, jak se vyrábějí U-zámky, vigvamy, francouzské rohlíky a zavazadla na kolečkách
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Jak to dělají? 2
+Day: Utorok
+Date: 11.11.2025
+Start Time: 08:30
+End Time: 09:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /216619-sk/dokument/jak-to-delaji/
+Original Name: How Do They Do It?: Longboards, Lemonade, Forklifts
+Year: 
+Description: Dokument. Vydejte se s námi do Španělska a prohlédněte si nejmodernější a nejvýkonnější letadlo na světě. Odhalíme také tajemství výroby teplých voděodolných bot a pěstování banánů
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu 3
+Day: Utorok
+Date: 11.11.2025
+Start Time: 09:00
+End Time: 10:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /216483-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters: Unusual Objects
+Year: 
+Description: Dokument. Lovec pokladů moderní doby, Drew Pritchard, cestuje po celé Velké Británii a hledá podivné a zajímavé předměty. Čím větší hora pokladů, tím šťastnější je
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 3
+Day: Utorok
+Date: 11.11.2025
+Start Time: 10:00
+End Time: 11:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /227394-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Francouzský leštič Alex má za úkol zrestaurovat obrovské hodiny. Ruth renovuje pár zlatých svícnů a Cliff pracuje na sto let staré nádobě
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 14
+Day: Utorok
+Date: 11.11.2025
+Start Time: 11:00
+End Time: 11:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13182811-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Tiny Home, Big Move
+Year: 
+Description: Maličký dům, náročné stěhování. Dokument. Pár je připraven odstěhovat se do Kalifornie. Plánují zakoupit maličký dům, aby se nezadlužili. Vymožeností se však vzdát nechtějí
+Score: 61%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 15
+Day: Utorok
+Date: 11.11.2025
+Start Time: 11:30
+End Time: 12:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13267137-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Dad And His Daughter Go Tiny
+Year: 
+Description: Táta s dcerou kupují maličký dům. Dokument. Svobodný otec chce cestovat se svojí dcerou po světě. Aby ušetřili, musí nejprve koupit menší dům
+Score: 61%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 9
+Day: Utorok
+Date: 11.11.2025
+Start Time: 12:00
+End Time: 13:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /156342-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers
+Year: 
+Description: Chevrolet Corvette Stingray. Dokument. Mikovi se podaří sehnat americkou klasiku, Chevrolet Corvette Stingray, které je však jen částečně zrenovované. Dokáže jej Edd spravit tak, aby vypadalo jako nové?
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Ostřílení řidiči kamionů 9
+Day: Utorok
+Date: 11.11.2025
+Start Time: 13:00
+End Time: 14:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /8650687-sk/dokument/ostrileni-ridici-kamionu/
+Original Name: Mighty Truckers
+Year: 
+Description: Dokument. Ponořte se do světa dopravy a sledujte každodenní život evropských a nizozemských řidičů kamionů
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Ostřílení řidiči kamionů 10
+Day: Utorok
+Date: 11.11.2025
+Start Time: 14:00
+End Time: 15:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /8654461-sk/dokument/ostrileni-ridici-kamionu/
+Original Name: Mighty Truckers
+Year: 
+Description: Dokument. Práce řidiče kamionu není snadná: za volantem musí trávit dlouhé hodiny a silnice jsou často velmi rušné. Řidiči z Německa, Itálie a Holandska sdílejí své zážitky z cest
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Hraniční kontrola: Itálie 3
+Day: Utorok
+Date: 11.11.2025
+Start Time: 15:00
+End Time: 16:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /8644237-sk/dokument/hranicni-kontrola-italie/
+Original Name: Border Control Italia
+Year: 
+Description: Dokument. Seriál sleduje práci bezpečnostních a celních služeb na italských hranicích, které jsou neustále ohrožovány drogami, zbraněmi a podezřelými teroristy
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Nazí a vystrašení 13
+Day: Utorok
+Date: 11.11.2025
+Start Time: 16:00
+End Time: 17:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /1258889-sk/dokument/nazi-a-vystraseni/
+Original Name: Naked And Afraid: Naked And Ghosted
+Year: 
+Description: Dokument. Ti nejlepší dostanou nejtěžší svůj dosavadní úkol v mexické džungli. Setkají se s prudkými lijáky, tajemnými zvuky a bouřemi s blesky!
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Shortyho vysněný obchod 4
+Day: Utorok
+Date: 11.11.2025
+Start Time: 17:00
+End Time: 18:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /9927079-sk/dokument/shortyho-vysneny-obchod/
+Original Name: Shorty’s Dream Shop: Matt Judon’s Eldorado Rescue
+Year: 
+Description: Záchrana Eldorada Matta Judona. Dokument. Záložník NFL Matt Judon chce předělat otcovo Eldorado z roku 1977. Pánové vozu vrátí jeho původní slávu a přidají pár Shortyho vychytávek
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Jak to dělají? 7
+Day: Utorok
+Date: 11.11.2025
+Start Time: 18:00
+End Time: 18:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /172588-sk/dokument/jak-to-delaji/
+Original Name: How Do They Do It?: Plane Painting/Clogs/Pasties
+Year: 
+Description: Dokument. K výrobě mnohých předmětů každodenního života jsou v moderní společnosti používány sofistikované inženýrské procesy. Jak vypadají?
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 10
+Day: Utorok
+Date: 11.11.2025
+Start Time: 18:30
+End Time: 19:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /146432-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Cufflinks/Blueberry Turnovers/Dashboards
+Year: 
+Description: Jíl, odpeckované sušené švestky, ostruhy. Dokument. Jak se vyrábí jíl, odpeckované sušené švestky, ostruhy a polyuretanové pneumatiky? Zaměřujeme se na předměty denní potřeby - a nabízíme odpovědi!
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Rychle a hlasitě 9
+Day: Utorok
+Date: 11.11.2025
+Start Time: 19:00
+End Time: 20:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /14074707-sk/dokument/rychle-a-hlasite/
+Original Name: Fast N’ Loud: When Lightning Strikes
+Year: 
+Description: Dokument. Richard Rawlings a Aaron Kaufmann hledají po zapadlých koutech Texasu zpustlé klasické vozy, které zakoupí a restaurují v dílně Gas Monkey Garage v Dallasu
+Score: 64%
+Genre: dokumentární
+----------------------------------------
+Title: Zlatá horečka: Freddy Dodge zachraňuje zlaté doly 2
+Day: Utorok
+Date: 11.11.2025
+Start Time: 20:00
+End Time: 21:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /10371325-sk/dokument/zlata-horecka-freddy-dodge-zachranuje-zlate-doly/
+Original Name: Gold Rush: Mine Rescue with Freddy & Juan: Dry Or Die
+Year: 
+Description: Dry Or Die. Dokument. Odborníci na těžbu zlata Freddy Dodge a Juan Ibarra pomáhají majitelům dolů s problémy. Pokud se jim podaří zvýšit těžbu zlata, dostanou podíl ze zisku
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Hledání opálů v australském vnitrozemí 4
+Day: Utorok
+Date: 11.11.2025
+Start Time: 21:00
+End Time: 22:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /753770-sk/dokument/hledani-opalu-v-australskem-vnitrozemi/
+Original Name: Outback Opal Hunters
+Year: 
+Description: Dokument. Tunelové krysy riskují své životy, aby dostaly pod zem mohutný bagr. Mezitím Světlonoši s úžasem objeví největší kus opálu
 Score: 60%
 Genre: dokumentární
 ----------------------------------------
 Title: Rychlostní policisté 4
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 21:00
-End Time: 22:00
+Day: Utorok
+Date: 11.11.2025
+Start Time: 22:00
+End Time: 23:00
 Duration: 60 min
 Channel: Discovery Channel
 Link: /14013033-sk/dokument/rychlostni-policiste/
@@ -2588,101 +2098,465 @@ Description: Dokument. Silniční policie honí potížisty a milovníky vysoké
 Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: Rychlostní policisté 5
-Day: Nedeľa
-Date: 19.10.2025
-Start Time: 22:00
-End Time: 23:00
-Duration: 60 min
-Channel: Discovery Channel
-Link: /14108727-sk/dokument/rychlostni-policiste/
-Original Name: Speed Cops
-Year: 
-Description: Dokument. Silniční policie honí potížisty a milovníky vysoké rychlosti po celém Německu. Tito profesionálové vědí přesně, co je a co už není legální
-Score: 59%
-Genre: dokumentární
-----------------------------------------
-Title: Hraniční kontrola: Polsko 1
-Day: Nedeľa
-Date: 19.10.2025
+Title: Aljaška: Poslední hranice 12
+Day: Utorok
+Date: 11.11.2025
 Start Time: 23:00
 End Time: 00:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /dokument/hranicni-kontrola-polsko/
-Original Name: Border Control Poland
-Year: 
-Description: Dokument. Bezpečnostní a celní služby na polských hranicích neustále dohlížejí na to, aby zabránily vstupu nelegálních předmětů do země. Jejich úkolem je odhalovat trestnou činnost
+Link: /15545081-sk/dokument/aljaska-posledni-hranice-2011/
+Original Name: Alaska: The Last Frontier: Homesteading For The Holidays
+Year: 2011
+Description: Vánoce na hospodářství. Dokumentární seriál USA (2011). Kilcherovi oslaví nezapomenutelné Vánoce. Zapojí příznačnou vynalézavost a s láskou vyrobí jeden druhému dárky
 Score: 63%
 Genre: dokumentární
 ----------------------------------------
-Title: Hraniční kontrola: Itálie 1
-Day: Nedeľa
-Date: 19.10.2025
+Title: Lovci odpadu: Restaurátoři 6
+Day: Utorok
+Date: 11.11.2025
 Start Time: 00:00
 End Time: 01:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /9334411-sk/dokument/hranicni-kontrola-italie/
-Original Name: Border Control Italia
+Link: /306792-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
 Year: 
-Description: Dokument. Budeme svědky aktivit bezpečnostních a celních služeb na italských hranicích, které jsou neustále vystaveny hrozbě drog, zbraní a podezření z terorismu
-Score: 59%
+Description: Dokument VB. Restaurátorka barev Gill použije starý vinyl k záchraně 120 let starého čínského psacího stolu. A při práci sochaře Nicka na legendární zahradní židli létají jiskry
+Score: 58%
 Genre: dokumentární
 ----------------------------------------
-Title: Zlatá horečka 3
-Day: Nedeľa
-Date: 19.10.2025
+Title: Naftové bratrstvo 2
+Day: Utorok
+Date: 11.11.2025
 Start Time: 01:00
 End Time: 02:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /9916199-sk/dokument/zlata-horecka/
-Original Name: Gold Rush: Epic Fails
+Link: /15212985-sk/dokument/naftove-bratrstvo/
+Original Name: Diesel Brothers: A Kraken Kodiak
 Year: 
-Description: Obrovské neúspěchy. Dokument. Zlatokopové jsou zpět na Yukonu a mají vše připraveno, aby se znovu pokusili stát se bohatými. Noví kopáči, nová území a nové stroje a sázky jsou vyšší než kdy dříve!
-Score: 59%
+Description: Kraken a Kodiak. Dokument. Diesel Dave pokračuje v práci na svém prvním náklaďáku, který chce darovat - skvělém a moderním Kodiaku. Sam, zvaný Šílený vědec, představí Krakena, vůz na naftu s jedním kolem
+Score: 57%
 Genre: dokumentární
 ----------------------------------------
-Title: Zlatá horečka 4
-Day: Nedeľa
-Date: 19.10.2025
+Title: Zlatá horečka: Freddy Dodge zachraňuje zlaté doly 2
+Day: Utorok
+Date: 11.11.2025
 Start Time: 02:00
 End Time: 03:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /11041085-sk/dokument/zlata-horecka/
-Original Name: Gold Rush: The Disappearing Pay Layer
+Link: /10371325-sk/dokument/zlata-horecka-freddy-dodge-zachranuje-zlate-doly/
+Original Name: Gold Rush: Mine Rescue with Freddy & Juan: Dry Or Die
 Year: 
-Description: Mizející ložisko. Dokument. Parker nečekaně ztratí v dlouhém řezu ložisko. Kevin se tvrdě snaží udržet své vybavení v chodu
-Score: 58%
+Description: Dry Or Die. Dokument. Odborníci na těžbu zlata Freddy Dodge a Juan Ibarra pomáhají majitelům dolů s problémy. Pokud se jim podaří zvýšit těžbu zlata, dostanou podíl ze zisku
+Score: 59%
 Genre: dokumentární
 ----------------------------------------
-Title: V epicentru bouře 5
-Day: Nedeľa
-Date: 19.10.2025
+Title: Hledání opálů v australském vnitrozemí 4
+Day: Utorok
+Date: 11.11.2025
 Start Time: 03:00
 End Time: 04:00
 Duration: 60 min
 Channel: Discovery Channel
-Link: /9526611-sk/dokument/v-epicentru-boure/
-Original Name: In The Eye Of The Storm: Snowmageddon
+Link: /753770-sk/dokument/hledani-opalu-v-australskem-vnitrozemi/
+Original Name: Outback Opal Hunters
 Year: 
-Description: Dokument. Poutavé záběry zachycují epicentra šokujících přírodních katastrof - od tornád po požáry - v reálném čase a jako nikdy předtím
+Description: Dokument. Tunelové krysy riskují své životy, aby dostaly pod zem mohutný bagr. Mezitím Světlonoši s úžasem objeví největší kus opálu
 Score: 60%
 Genre: dokumentární
 ----------------------------------------
-Title: Lovci odpadu 6
-Day: Nedeľa
-Date: 19.10.2025
+Title: Rození obchodníci 13
+Day: Utorok
+Date: 11.11.2025
 Start Time: 04:00
 End Time: 04:50
 Duration: 50 min
 Channel: Discovery Channel
-Link: /146442-sk/dokument/lovci-odpadu-2011/
-Original Name: Salvage Hunters: Downside
-Year: 2011
-Description: Dokumentární seriál VB (2011). Drew navštíví moderního prodejce v Manchesteru, jedná s manažerem větrného mlýna v Kentu a hledá artefakty v opatství v Somersetu. Navíc se po 10 letech stěhuje
+Link: /227392-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Caterham 7
+Year: 
+Description: Opel GT 1900 z roku 1969. Dokument. Mike a Ant vstoupí na evropský trh se sportovními vozy s Opelem GT z roku 1969. Má poškozenou karoserii, špatný předstih, nekvalitní brzdy a nefunkční světlomety
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Klasická auta 1
+Day: Streda
+Date: 12.11.2025
+Start Time: 05:00
+End Time: 06:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /156357-sk/dokument/lovci-odpadu-klasicka-auta/
+Original Name: Salvage Hunters: Classic Cars: Golf And Lotus
+Year: 
+Description: Dokument. Paul pracuje na velkolepé restauraci, když se Drew zamiluje a koupí klasiku automobilového designu, kupé Fiat 130, který však má vážný problém s korozí
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 12
+Day: Streda
+Date: 12.11.2025
+Start Time: 06:00
+End Time: 07:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /193581-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Alfa Romeo Alfasud
+Year: 
+Description: Cadillac Coupe De Ville. Dokument. Mike našel klasický Cadillac Coupe, který není skoro vůbec zrezivělý. Interiér už však v tak dobrém stavu není. Promění Edd toto ošklivé káčátko v krásnou labuť?
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 7
+Day: Streda
+Date: 12.11.2025
+Start Time: 07:00
+End Time: 08:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: VW 181 Thing
+Year: 
+Description: Dodávka Dodge A100. Dokument. Talentovaný mechanik Ant Anstead a prodejce automobilů Mike Brewer mají náročný úkol: najít a renovovat ikonické automobily, které hodlají následně prodávat ve své dílně v LA
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 8
+Day: Streda
+Date: 12.11.2025
+Start Time: 08:00
+End Time: 08:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /156453-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Prams, Factory-Built Homes, Wood Flutes, Bicycle Tyres
+Year: 
+Description: Kočárky, montované domy, dřevěné flétny a cyklistické pláště. Dokument. Podrobně se zaměříme na další předměty každodenní potřeby a ukážeme si, jak se vyrábějí hliníkové kánoe, dřevěné misky, dodávky pro vozíčkáře a marimby
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Jak to dělají? 3
+Day: Streda
+Date: 12.11.2025
+Start Time: 08:30
+End Time: 09:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /216621-sk/dokument/jak-to-delaji/
+Original Name: How Do They Do It?: Coffee, Bricks, Lava Lamps
+Year: 
+Description: Dokument. Jak se buduje jednokolejnicová dráha nad nejrušnějším městem světa? Jak se vyrábí slavný kodaňský porcelán Flora Danica?
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu 4
+Day: Streda
+Date: 12.11.2025
+Start Time: 09:00
+End Time: 10:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /216485-sk/dokument/lovci-odpadu/
+Original Name: Salvage Hunters: Right Price
+Year: 
+Description: Dokument. Lovec pokladů moderní doby, Drew Pritchard, cestuje po celé Velké Británii a hledá podivné a zajímavé předměty. Čím větší hora pokladů, tím šťastnější je
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 4
+Day: Streda
+Date: 12.11.2025
+Start Time: 10:00
+End Time: 11:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /227396-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Pracovník s kovy Ted má za úkol znovu použít zrezivělé železniční návěstidlo. Alex restauruje bezhlavé zvíře z kolotoče, zatímco Craig opravuje lenošku
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 16
+Day: Streda
+Date: 12.11.2025
+Start Time: 11:00
+End Time: 11:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13267141-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Second Tiny House Is The Charm
+Year: 
+Description: Ideální maličký dům. Dokument. Po prodeji svého maličkého domu na Aljašce se cvičitelka psů stěhuje zpět do New Yorku. Pro sebe a své tři psy vybírá prostou a pojízdnou nemovitost
+Score: 61%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci maličkých domů 17
+Day: Streda
+Date: 12.11.2025
+Start Time: 11:30
+End Time: 12:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /13267145-sk/dokument/lovci-malickych-domu/
+Original Name: Tiny House Hunters: Teacher Seeks A Tiny Upgrade
+Year: 
+Description: Učitel si chce trochu přilepšit. Dokument. Učitel se rozhodl polepšit si, pokud jde o bydlení, a hodlá se přestěhovat z chalupy v lese zpět do civilizace. Hledá maličký dům s domovní kanalizací
+Score: 61%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 10
+Day: Streda
+Date: 12.11.2025
+Start Time: 12:00
+End Time: 13:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /164518-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers
+Year: 
+Description: FSM Syrena 105. Dokument. Mike se vydává do Polska koupit FSO Syrena. Mimo Polsko však toto auto v podstatě nikdo nezná. Podaří se dvojici auto prodat a ještě na tom vydělat?
+Score: 56%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 1
+Day: Streda
+Date: 12.11.2025
+Start Time: 13:00
+End Time: 14:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /199513-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: 1976 Mercury Capri MK2
+Year: 
+Description: Pontiac GTO: Chicago. Dokument. Dvojice ví, že nezrezivělé GTO by bylo ideálním autem pro otevření jejich nové dílny. Ale tato auta jsou vzácná a Mike se musí vydat až do dalekého Chicaga
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 2
+Day: Streda
+Date: 12.11.2025
+Start Time: 14:00
+End Time: 15:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /205286-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: 1995 Volvo 850 T-5R Wagon
+Year: 
+Description: Ford F100 - Seattle. Dokument. Pickupy patří k americkým ikonám. Mike se proto nemůže dočkat, aby pronikl na prosperující trh klasických dodávek. Podaří se mu objevit nedokončenou formuli F1 z padesátých let
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 3
+Day: Streda
+Date: 12.11.2025
+Start Time: 15:00
+End Time: 16:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /146479-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: 1991 Toyota MR2 Turbo
+Year: 
+Description: Range Rover. Dokument. Bláznivý motorista Mike se vydává napříč Amerikou, kde hledá ikonické vozy, které by Edd mohl přeměnit ze zrezlých vraků na vysněné stroje. Vydělají na těchto klasických autech?
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Nazí a vystrašení 17
+Day: Streda
+Date: 12.11.2025
+Start Time: 16:00
+End Time: 17:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /8650721-sk/dokument/nazi-a-vystraseni/
+Original Name: Naked And Afraid: Buffalo Bait
+Year: 
+Description: Návnada na buvola. Dokument. V Jižní Africe se dva fanoušci pokoušejí zdolat 14denní výzvu uprostřed nebezpečného území buvolů kapských. Jejich schopnosti prověří silné deště a nestálé teploty
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Shortyho vysněný obchod 5
+Day: Streda
+Date: 12.11.2025
+Start Time: 17:00
+End Time: 18:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /10020455-sk/dokument/shortyho-vysneny-obchod/
+Original Name: Shorty’s Dream Shop: Spicy Stock ’67 Nova
+Year: 
+Description: Ostrá Nova 1967. Dokument. Shorty a jeho tým promění karoserii modelu Nova z roku 1967 v pořádný pouliční stroj. Novým motorem, převodovkou, interiérem a lakem vrátí vozu jeho sílu
 Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Jak to dělají? 8
+Day: Streda
+Date: 12.11.2025
+Start Time: 18:00
+End Time: 18:30
+Duration: 30 min
+Channel: Discovery Channel
+Link: /172590-sk/dokument/jak-to-delaji/
+Original Name: How Do They Do It?: Suspension Bridge, Crossbows
+Year: 
+Description: Dokument. K výrobě mnohých předmětů každodenního života jsou v moderní společnosti používány sofistikované inženýrské procesy. Jak vypadají?
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Jak se to dělá 11
+Day: Streda
+Date: 12.11.2025
+Start Time: 18:30
+End Time: 19:00
+Duration: 30 min
+Channel: Discovery Channel
+Link: /156344-sk/dokument/jak-se-to-dela/
+Original Name: How It’s Made: Wood Slat Baskets, Bells
+Year: 
+Description: Tasery, konzervované polévky, skokanská prkna. Dokument. Jak se vyrábějí tasery, konzervované polévky, skokanská prkna, brumle a ústní luky? Zaměřujeme se na předměty denní potřeby - a nabízíme odpovědi!
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Rychle a hlasitě 10
+Day: Streda
+Date: 12.11.2025
+Start Time: 19:00
+End Time: 20:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /14173681-sk/dokument/rychle-a-hlasite/
+Original Name: Fast N’ Loud: La Casa Del Camino
+Year: 
+Description: Dokument. Richard Rawlings a Aaron Kaufmann hledají po zapadlých koutech Texasu zpustlé klasické vozy, které zakoupí a restaurují v dílně Gas Monkey Garage v Dallasu
+Score: 64%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci vyrážejí do světa 2
+Day: Streda
+Date: 12.11.2025
+Start Time: 20:00
+End Time: 21:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /8648409-sk/dokument/rozeni-obchodnici-vyrazeji-do-sveta/
+Original Name: Wheeler Dealers World Tour: Fiat 126 - Poland
+Year: 
+Description: Dokument. Mike a Elvis se vydávají do celého světa! Sázky jsou vyšší, termíny dokončení kratší a přestavby motorů neuvěřitelnější než kdy jindy
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Dvě turba 4
+Day: Streda
+Date: 12.11.2025
+Start Time: 21:00
+End Time: 22:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /14651439-sk/dokument/dve-turba/
+Original Name: Twin Turbos: Race To The Top
+Year: 
+Description: Závod na vrchol. Dokument. Tým Deberti spěchá, aby dokončil Mustang z roku 2018, proto musí každý přiložit ruce k dílu. Náhodné setkání na veletrhu SEMA může odstartovat Bradovu závodní kariéru
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Rychle a hlasitě 9
+Day: Streda
+Date: 12.11.2025
+Start Time: 22:00
+End Time: 23:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /14074707-sk/dokument/rychle-a-hlasite/
+Original Name: Fast N’ Loud: When Lightning Strikes
+Year: 
+Description: Dokument. Richard Rawlings a Aaron Kaufmann hledají po zapadlých koutech Texasu zpustlé klasické vozy, které zakoupí a restaurují v dílně Gas Monkey Garage v Dallasu
+Score: 64%
+Genre: dokumentární
+----------------------------------------
+Title: Aljaška: Poslední hranice 13
+Day: Streda
+Date: 12.11.2025
+Start Time: 23:00
+End Time: 00:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /15564495-sk/dokument/aljaska-posledni-hranice-2011/
+Original Name: Alaska: The Last Frontier: Bracing For Change
+Year: 2011
+Description: V očekávání změny. Dokumentární seriál USA (2011). Podzim přinese změny. Napětí se před odchodem Augusty na vysokou školu zvyšuje. Začíná se se stavbou Atzovy nové chaty a Eivin postaví zvláštní překvapení
+Score: 63%
+Genre: dokumentární
+----------------------------------------
+Title: Lovci odpadu: Restaurátoři 7
+Day: Streda
+Date: 12.11.2025
+Start Time: 00:00
+End Time: 01:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /306794-sk/dokument/lovci-odpadu-restauratori/
+Original Name: Salvage Hunters: The Restorers
+Year: 
+Description: Dokument VB. Čalouník Craig se obává opravy mimořádně vzácné kožené pohovky. A odborník na pinball Mark zažije při opravě klasického stroje překvapení
+Score: 58%
+Genre: dokumentární
+----------------------------------------
+Title: Naftové bratrstvo 3
+Day: Streda
+Date: 12.11.2025
+Start Time: 01:00
+End Time: 02:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /dokument/naftove-bratrstvo/
+Original Name: Diesel Brothers: Hurricanes, Trucks And Snowmobiles
+Year: 
+Description: Hurikány, náklaďáky a sněžné skútry. Dokument. Heavy D dá do příští reklamní akce druhý náklaďák a propaguje ji závodem na sněžném skútru. A tým je v Houstonu, aby pomohl obětem hurikánu
+Score: 57%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci vyrážejí do světa 2
+Day: Streda
+Date: 12.11.2025
+Start Time: 02:00
+End Time: 03:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /8648409-sk/dokument/rozeni-obchodnici-vyrazeji-do-sveta/
+Original Name: Wheeler Dealers World Tour: Fiat 126 - Poland
+Year: 
+Description: Dokument. Mike a Elvis se vydávají do celého světa! Sázky jsou vyšší, termíny dokončení kratší a přestavby motorů neuvěřitelnější než kdy jindy
+Score: 60%
+Genre: dokumentární
+----------------------------------------
+Title: Dvě turba 4
+Day: Streda
+Date: 12.11.2025
+Start Time: 03:00
+End Time: 04:00
+Duration: 60 min
+Channel: Discovery Channel
+Link: /14651439-sk/dokument/dve-turba/
+Original Name: Twin Turbos: Race To The Top
+Year: 
+Description: Závod na vrchol. Dokument. Tým Deberti spěchá, aby dokončil Mustang z roku 2018, proto musí každý přiložit ruce k dílu. Náhodné setkání na veletrhu SEMA může odstartovat Bradovu závodní kariéru
+Score: 59%
+Genre: dokumentární
+----------------------------------------
+Title: Rození obchodníci 14
+Day: Streda
+Date: 12.11.2025
+Start Time: 04:00
+End Time: 04:50
+Duration: 50 min
+Channel: Discovery Channel
+Link: /235215-sk/dokument/rozeni-obchodnici/
+Original Name: Wheeler Dealers: Ford Escort RS2000 Rally Car
+Year: 
+Description: Lancia Fulvia z roku 1972. Dokument. Mike narazí na vzácný závodní model Lancia Fulvia z roku 1972. Spolu s Antem musí opravit CV kloub, nefunkční topení, prasklou přístrojovou desku a ucpaný palivový systém
+Score: 56%
 Genre: dokumentární
 ----------------------------------------
