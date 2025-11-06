@@ -4,7 +4,10 @@ An automated TV program scraping system with real-time viewer simulation and glo
 
 ## 🚀 Live Demo
 - **Global API**: https://tv-scraper.tvdata.workers.dev
+- **Local API**: http://localhost:5001 (when running locally)
 - **Endpoints**: `/status`, `/now-playing`, `/viewers`
+
+> 🔄 **API Sync**: Both local and global APIs serve identical real TV data formats
 
 ## 🎯 Project Overview
 
@@ -81,7 +84,22 @@ curl http://localhost:5001/now-playing
 curl https://tv-scraper.tvdata.workers.dev/now-playing
 ```
 
-## 📊 API Endpoints
+## � API Synchronization
+
+Both local and global APIs now serve **identical real TV data**:
+
+| Environment | URL | Data Source |
+|-------------|-----|-------------|
+| **Local Development** | `http://localhost:5001` | Real scraped data from SQLite |
+| **Global Production** | `https://tv-scraper.tvdata.workers.dev` | Real data (synchronized) |
+
+### **Why This Matters for Teams:**
+- ✅ **Consistent Integration**: Same JSON format across environments  
+- ✅ **Real Data**: No demo/mock data - actual Slovak TV programming
+- ✅ **Reliable Testing**: Develop locally, deploy globally with confidence
+- ✅ **Live Data**: Current programs updated every 6 hours
+
+## �📊 API Endpoints
 
 ### **GET /status**
 System health and configuration information
@@ -89,32 +107,52 @@ System health and configuration information
 {
   "service": "TV Program Scraper API",
   "status": "operational",
-  "platform": "Cloudflare Workers",
-  "uptime": "99.9%"
+  "timestamp": "2025-11-06T10:15:00.000Z",
+  "stats": {
+    "database": "connected",
+    "channels": ["BBC Earth", "Discovery Channel", "National Geographic"]
+  }
 }
 ```
 
-### **GET /now-playing**
-Current TV programs across all channels
+### **GET /now-playing**  
+Current TV programs across all channels (REAL DATA)
 ```json
-{
-  "success": true,
-  "data": [
-    {
-      "channel": "BBC Earth",
-      "title": "Planet Earth III",
-      "start": "20:00",
-      "date": "2025-11-06"
-    }
-  ],
-  "count": 3
-}
+[
+  {
+    "channel": "BBC Earth",
+    "title": "Život, smrt a odkaz Tutanchamona 1",
+    "start": "09:10:00",
+    "date": "06.11.2025",
+    "csfd_id": ""
+  },
+  {
+    "channel": "Discovery Channel", 
+    "title": "Lovci odpadu 12",
+    "start": "09:00:00",
+    "date": "06.11.2025",
+    "csfd_id": ""
+  }
+]
 ```
 
 ### **GET /viewers**
-Live viewer counts with regional breakdown
+Live viewer counts simulation
 ```json
-{
+[
+  {
+    "channel": "Discovery Channel",
+    "viewers": "4185"
+  },
+  {
+    "channel": "BBC Earth", 
+    "viewers": "3925"
+  },
+  {
+    "channel": "National Geographic",
+    "viewers": "4431"
+  }
+]
   "success": true,
   "data": [
     {
