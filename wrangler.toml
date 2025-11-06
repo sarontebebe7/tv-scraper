@@ -1,0 +1,18 @@
+name = "tv-scraper"
+main = "worker.js"
+compatibility_date = "2023-11-05"
+
+[env.production.vars]
+ENVIRONMENT = "production"
+
+# Cloudflare Workers configuration for TV Scraper
+# This replaces docker-compose.yml and runs on Cloudflare's edge network
+
+# Custom domain configuration (optional)
+# routes = [
+#   { pattern = "tv-scraper.yourdomain.com/*", zone_name = "yourdomain.com" }
+# ]
+
+# Rate limiting (optional)
+# [env.production.limits]
+# cpu_ms = 50

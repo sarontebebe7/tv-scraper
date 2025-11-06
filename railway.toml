@@ -1,7 +1,0 @@
-[build]
-builder = "dockerfile"
-dockerfilePath = "Dockerfile.railway"
-
-[deploy]
-startCommand = "python flask_now_playing.py"
-restartPolicyType = "always"
